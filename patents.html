@@ -31,7 +31,7 @@ function listPatents()
     {
     $.getJSON('/data/patents.json', function(data) {
         toggle = 0;
-         $.each(data['patent'], function(key, val) {
+         $.each(data, function(key, val) {
          	
             var template = $('#patentListingTemplate').html();
             var html = Mustache.to_html(template, val);
