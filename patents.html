@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Companies
+title: Patents
 ---
 <ul class="toolbar">
-    <li>{"<a href="http://containers.apievangelist.com/data/companies.json" title="JSON" target="_blank">JSON</a>"}</li>
+    <li>{"<a href="http://patents.apievangelist.com/data/patents.json" title="JSON" target="_blank">JSON</a>"}</li>
     <li>{"<a href="https://apievangelist.3scale.net/docs" title="API" target="_blank">API</a>"}</li>
 </ul>
 
-<h1 class="title">Companies</h1>
-<p>These are the companies I am keeping an eye on when it comes to containers and APIs. As I see patterns emerge across providers, I will start to breaking companies into smaller groups, but for now I will list them all, with any supporting details for each provider.</p>
+<h1 class="title">Patents</h1>
+<p>I'm slowly going through each year of <a href="http://patents.reedtech.com/pgrbft.php">patents</a>, and as I mount each XML file (yeah I said mount), I search through the title, abstract, and description of each patent for the phrase "application programming interface". If a patent contains these words, I pull out and include in an API, and resulting JSON file stored on this site for exploration.</p>
+<p>It takes time, compute, storage, and bandwidth resources to process these, and as I add new files, I will publish the resulting information here. If you'd like access to the resulting API, let me know.</p>
 <p><br /></p>
 {% raw  %}
 <script id="companyListingTemplate" type="text/template">       
@@ -17,22 +18,7 @@ title: Companies
             <a href="" id="home-logo-link-{{id}}"><img src="{{logo}}" width="{{logo_width}}" align="left" style="padding: 15px;" /></a>
             <a href="" id="home-name-link-{{id}}" style="color: #000;"><strong>{{name}}</strong></a><p>{{details}}</p>
         </td>
-    </tr>
-    <tr>
-        <td align="center" valign="top">   
-        	           
-	        <a href="index.html" target="_blank" title="Website" id="home-icon-{{id}}"><img id="home-icon-img-{{id}}" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="35" style="display: inline; margin: 10px; width: 35px;" /></a>
-	
-	        <a href="index.html" target="_blank" title="Blog" id="blog-icon-{{id}}"><img id="blog-icon-img-{{id}}" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png" width="35" style="display: inline; margin: 10px; width: 35px;" /></a>
-	   
-	        <a href="index.html" target="_blank" title="Blog RSS" id="blogrss-icon-{{id}}"><img id="blogrss-icon-img-{{id}}" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="36" style="display: inline; margin: 10px; width: 36px;" /></a>
-	   
-	        <a href="index.html" target="_blank" title="Twitter" id="twitter-icon-{{id}}"><img id="twitter-icon-img-{{id}}" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="45" style="display: inline; margin: 10px; width: 45px;" /></a>
-	
-	        <a href="index.html" target="_blank" title="Githube" id="github-icon-{{id}}"><img id="github-icon-img-{{id}}" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github-icon.png" width="50" style="display: inline; margin: 10px; width: 50px;" /></a>            
-			<hr />
-		</td>
-	</tr>                                                                                                  
+    </tr>                                                                                                
 </script>
 {% endraw %}
 
@@ -41,7 +27,7 @@ title: Companies
 <script type="text/javascript">
 function listCompanies()
     {
-    $.getJSON('/data/companies.json', function(data) {
+    $.getJSON('/data/patents.json', function(data) {
         toggle = 0;
          $.each(data['company'], function(key, val) {
             var template = $('#companyListingTemplate').html();
