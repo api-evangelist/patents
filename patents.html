@@ -16,13 +16,13 @@ title: Patents
     <tr>
         <td align="left" valign="top">
             <strong>{{name}}</strong><br />
-            <strong>Patent Publication:</strong> {{ publication_number }} ({{ publication_date | date_to_string }})<br />
-            <strong>Patent Application:</strong> {{ application_number }} ({{ application_date | date_to_string }})<br /> <br />         
+            <strong>Patent Publication:</strong> {{ publication_number }} ({{ publication_date | date: "%Y-%m-%d" }})<br />
+            <strong>Patent Application:</strong> {{ application_number }} ({{ application_date | date: "%Y-%m-%d" }})<br /> <br />         
             <strong>Owner:</strong> {{owner}}<br /><br />
             {{abstract}}
         </td>
     </tr> 
-    <tr><td><hr /></td></tr>                                                                                               
+    <tr><td><hr /></td></tr>                                                                                         
 </script>
 {% endraw %}
 
