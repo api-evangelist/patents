@@ -16,7 +16,10 @@ title: Patents
     <tr>
         <td align="left" valign="top">
             <strong>{{name}}</strong><br />
-            <strong>Patent #:</strong> {{number}}<br />
+            <strong>Patent Publication #:</strong> {{ publication_number }}<br />
+            <strong>Patent Publication Date #:</strong> {{ publication_date | date: "%D" }}<br />
+            <strong>Patent Application #:</strong> {{ application_number }}<br />
+            <strong>Patent Application Date #:</strong> {{ application_date | date: "%D" }}<br />            
             <strong>Owner:</strong> {{owner}}<br />
             {{abstract}}
         </td>
