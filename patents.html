@@ -42,7 +42,7 @@ function listPatents()
          $.each(data, function(key, val) {
          	
          	$match_type = val['match_type'];
-         	
+         	console.log($match_type + ' == ' + $filter);
          	if($match_type==$filter)
          		{
          	
