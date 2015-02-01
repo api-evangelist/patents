@@ -1,138 +1,198 @@
 
 [{
 	"owner": "Microsoft Corporation",
-	"patent_count": "1238"
+	"patent_count": "2642"
 },
 {
 	"owner": "International Business Machines Corporation",
-	"patent_count": "862"
+	"patent_count": "1626"
+},
+{
+	"owner": "Sun Microsystems, Inc.",
+	"patent_count": "364"
+},
+{
+	"owner": "Hewlett-Packard Development Company, L.P.",
+	"patent_count": "317"
+},
+{
+	"owner": "Intel Corporation",
+	"patent_count": "245"
 },
 {
 	"owner": "SAP AG",
-	"patent_count": "177"
+	"patent_count": "244"
 },
 {
-	"owner": "Google Inc.",
-	"patent_count": "153"
+	"owner": "Cisco Technology, Inc.",
+	"patent_count": "233"
 },
 {
 	"owner": "Oracle International Corporation",
-	"patent_count": "143"
+	"patent_count": "220"
+},
+{
+	"owner": "EMC Corporation",
+	"patent_count": "197"
+},
+{
+	"owner": "Google Inc.",
+	"patent_count": "158"
+},
+{
+	"owner": "NVIDIA Corporation",
+	"patent_count": "150"
 },
 {
 	"owner": "Research In Motion Limited",
-	"patent_count": "139"
+	"patent_count": "149"
 },
 {
 	"owner": "Apple Inc.",
-	"patent_count": "133"
+	"patent_count": "146"
+},
+{
+	"owner": "QUALCOMM Incorporated",
+	"patent_count": "143"
+},
+{
+	"owner": "Canon Kabushiki Kaisha",
+	"patent_count": "131"
+},
+{
+	"owner": "Citrix Systems, Inc.",
+	"patent_count": "123"
+},
+{
+	"owner": "Amazon Technologies, Inc.",
+	"patent_count": "121"
 },
 {
 	"owner": "Oracle America, Inc.",
 	"patent_count": "121"
 },
 {
-	"owner": "Hewlett-Packard Development Company, L.P.",
+	"owner": "National Instruments Corporation",
 	"patent_count": "120"
 },
 {
-	"owner": "QUALCOMM Incorporated",
-	"patent_count": "118"
-},
-{
-	"owner": "Amazon Technologies, Inc.",
+	"owner": "Symantec Corporation",
 	"patent_count": "117"
 },
 {
-	"owner": "Citrix Systems, Inc.",
-	"patent_count": "112"
-},
-{
-	"owner": "EMC Corporation",
-	"patent_count": "94"
-},
-{
-	"owner": "Cisco Technology, Inc.",
-	"patent_count": "91"
-},
-{
-	"owner": "NetApp, Inc.",
-	"patent_count": "91"
-},
-{
-	"owner": "Symantec Corporation",
-	"patent_count": "89"
-},
-{
-	"owner": "NVIDIA Corporation",
-	"patent_count": "89"
-},
-{
-	"owner": "Intel Corporation",
-	"patent_count": "87"
-},
-{
 	"owner": "Adobe Systems Incorporated",
-	"patent_count": "86"
-},
-{
-	"owner": "Yahoo! Inc.",
-	"patent_count": "75"
-},
-{
-	"owner": "Canon Kabushiki Kaisha",
-	"patent_count": "70"
-},
-{
-	"owner": "Trading Technologies International, Inc.",
-	"patent_count": "64"
-},
-{
-	"owner": "Red Hat, Inc.",
-	"patent_count": "63"
+	"patent_count": "103"
 },
 {
 	"owner": "Symantec Operating Corporation",
-	"patent_count": "61"
+	"patent_count": "102"
 },
 {
-	"owner": "AT&T Intellectual Property I, L.P.",
-	"patent_count": "51"
+	"owner": "Xerox Corporation",
+	"patent_count": "101"
 },
 {
-	"owner": "National Instruments Corporation",
-	"patent_count": "49"
+	"owner": "Nokia Corporation",
+	"patent_count": "100"
 },
 {
-	"owner": "American Express Travel Related Services Company, Inc.",
-	"patent_count": "47"
-},
-{
-	"owner": "Harris Corporation",
-	"patent_count": "47"
-},
-{
-	"owner": "The MathWorks, Inc.",
-	"patent_count": "46"
+	"owner": "NetApp, Inc.",
+	"patent_count": "98"
 },
 {
 	"owner": "Broadcom Corporation",
-	"patent_count": "46"
+	"patent_count": "84"
 },
 {
-	"owner": "Ebay Inc.",
-	"patent_count": "43"
+	"owner": "Trading Technologies International, Inc.",
+	"patent_count": "84"
 },
 {
-	"owner": "Avaya Inc.",
-	"patent_count": "39"
+	"owner": "Yahoo! Inc.",
+	"patent_count": "83"
+},
+{
+	"owner": "Red Hat, Inc.",
+	"patent_count": "65"
+},
+{
+	"owner": "AT&T Intellectual Property I, L.P.",
+	"patent_count": "61"
+},
+{
+	"owner": "The MathWorks, Inc.",
+	"patent_count": "61"
+},
+{
+	"owner": "Sprint Communications Company L.P.",
+	"patent_count": "58"
+},
+{
+	"owner": "Autodesk, Inc.",
+	"patent_count": "55"
+},
+{
+	"owner": "American Express Travel Related Services Company, Inc.",
+	"patent_count": "54"
+},
+{
+	"owner": "Harris Corporation",
+	"patent_count": "53"
+},
+{
+	"owner": "BEA Systems, Inc.",
+	"patent_count": "51"
 },
 {
 	"owner": "Samsung Electronics Co., Ltd.",
-	"patent_count": "38"
+	"patent_count": "50"
+},
+{
+	"owner": "Sony Corporation",
+	"patent_count": "49"
+},
+{
+	"owner": "Fujitsu Limited",
+	"patent_count": "47"
+},
+{
+	"owner": "Ebay Inc.",
+	"patent_count": "45"
+},
+{
+	"owner": "Avaya Inc.",
+	"patent_count": "45"
 },
 {
 	"owner": "Sharp Laboratories of America, Inc.",
+	"patent_count": "45"
+},
+{
+	"owner": "Siemens Aktiengesellschaft",
+	"patent_count": "43"
+},
+{
+	"owner": "Nortel Networks Limited",
+	"patent_count": "42"
+},
+{
+	"owner": "Accenture LLP",
+	"patent_count": "42"
+},
+{
+	"owner": "Unisys Corporation",
+	"patent_count": "41"
+},
+{
+	"owner": "Juniper Networks, Inc.",
+	"patent_count": "40"
+},
+{
+	"owner": "Hitachi, Ltd.",
+	"patent_count": "40"
+},
+{
+	"owner": "Computer Associates Think, Inc.",
 	"patent_count": "37"
 },
 {
@@ -140,35 +200,63 @@
 	"patent_count": "36"
 },
 {
-	"owner": "Nokia Corporation",
+	"owner": "United Services Automobile Association (USAA)",
 	"patent_count": "36"
 },
 {
-	"owner": "United Services Automobile Association (USAA)",
-	"patent_count": "35"
-},
-{
-	"owner": "Nuance Communications, Inc.",
-	"patent_count": "32"
-},
-{
-	"owner": "Juniper Networks, Inc.",
-	"patent_count": "31"
-},
-{
-	"owner": "Xerox Corporation",
-	"patent_count": "31"
+	"owner": "Siebel Systems, Inc.",
+	"patent_count": "36"
 },
 {
 	"owner": "Alcatel Lucent",
-	"patent_count": "30"
+	"patent_count": "35"
+},
+{
+	"owner": "Novell, Inc.",
+	"patent_count": "35"
+},
+{
+	"owner": "Network Appliance, Inc.",
+	"patent_count": "35"
+},
+{
+	"owner": "Xilinx, Inc.",
+	"patent_count": "35"
+},
+{
+	"owner": "Metrologic Instruments, Inc.",
+	"patent_count": "34"
+},
+{
+	"owner": "Nuance Communications, Inc.",
+	"patent_count": "33"
+},
+{
+	"owner": "CommVault Systems, Inc.",
+	"patent_count": "33"
+},
+{
+	"owner": "SAP Aktiengesellschaft",
+	"patent_count": "33"
+},
+{
+	"owner": "VMware, Inc.",
+	"patent_count": "29"
+},
+{
+	"owner": "Ricoh Company, Ltd.",
+	"patent_count": "29"
+},
+{
+	"owner": "Intuit Inc.",
+	"patent_count": "29"
 },
 {
 	"owner": "AOL Inc.",
 	"patent_count": "28"
 },
 {
-	"owner": "CommVault Systems, Inc.",
+	"owner": "Advanced Micro Devices, Inc.",
 	"patent_count": "27"
 },
 {
@@ -180,19 +268,35 @@
 	"patent_count": "26"
 },
 {
-	"owner": "Sprint Communications Company L.P.",
+	"owner": "AT&T Intellectual Property II, L.P.",
 	"patent_count": "26"
 },
 {
-	"owner": "Intuit Inc.",
-	"patent_count": "26"
+	"owner": "AT&T Mobility II LLC",
+	"patent_count": "25"
 },
 {
 	"owner": "The Invention Science Fund I, LLC",
 	"patent_count": "25"
 },
 {
-	"owner": "VMware, Inc.",
+	"owner": "Verizon Business Global LLC",
+	"patent_count": "25"
+},
+{
+	"owner": "Fuji Xerox Co., Ltd.",
+	"patent_count": "25"
+},
+{
+	"owner": "Ciena Corporation",
+	"patent_count": "25"
+},
+{
+	"owner": "Veritas Operating Corporation",
+	"patent_count": "25"
+},
+{
+	"owner": "Telefonaktiebolaget L M Ericsson (publ)",
 	"patent_count": "24"
 },
 {
@@ -200,59 +304,111 @@
 	"patent_count": "24"
 },
 {
-	"owner": "Computer Associates Think, Inc.",
+	"owner": "NCR Corporation",
 	"patent_count": "24"
 },
 {
-	"owner": "Autodesk, Inc.",
+	"owner": "Symbol Technologies, Inc.",
+	"patent_count": "24"
+},
+{
+	"owner": "Siemens Communications, Inc.",
+	"patent_count": "24"
+},
+{
+	"owner": "Mitutoyo Corporation",
 	"patent_count": "23"
 },
 {
-	"owner": "Fujitsu Limited",
+	"owner": "Telefonaktiebolaget LM Ericsson (Publ)",
+	"patent_count": "23"
+},
+{
+	"owner": "Akamai Technologies, Inc.",
+	"patent_count": "23"
+},
+{
+	"owner": "Silverbrook Research Pty Ltd",
+	"patent_count": "23"
+},
+{
+	"owner": "Teamon Systems, Inc.",
+	"patent_count": "23"
+},
+{
+	"owner": "Scientific-Atlanta, Inc.",
+	"patent_count": "23"
+},
+{
+	"owner": "Teradata US, Inc.",
 	"patent_count": "22"
 },
 {
-	"owner": "AT&T Intellectual Property II, L.P.",
-	"patent_count": "22"
-},
-{
-	"owner": "Novell, Inc.",
+	"owner": "Cypress Semiconductor Corporation",
 	"patent_count": "22"
 },
 {
 	"owner": "Impinj, Inc.",
+	"patent_count": "22"
+},
+{
+	"owner": "Intertrust Technologies Corp.",
+	"patent_count": "22"
+},
+{
+	"owner": "McAfee, Inc.",
+	"patent_count": "22"
+},
+{
+	"owner": "Bank of America Corporation",
 	"patent_count": "21"
 },
 {
-	"owner": "Teradata US, Inc.",
-	"patent_count": "20"
+	"owner": "The Boeing Company",
+	"patent_count": "21"
 },
 {
-	"owner": "Ricoh Company, Ltd.",
-	"patent_count": "20"
+	"owner": "Cadence Design Systems, Inc.",
+	"patent_count": "21"
 },
 {
-	"owner": "AT&T Mobility II LLC",
-	"patent_count": "20"
+	"owner": "Motorola, Inc.",
+	"patent_count": "21"
 },
 {
-	"owner": "BEA Systems, Inc.",
-	"patent_count": "20"
+	"owner": "Lucent Technologies Inc.",
+	"patent_count": "21"
 },
 {
-	"owner": "Sony Corporation",
-	"patent_count": "19"
+	"owner": "Sony Electronics Inc.",
+	"patent_count": "20"
 },
 {
 	"owner": "salesforce.com, inc.",
+	"patent_count": "20"
+},
+{
+	"owner": "Lockheed Martin Corporation",
 	"patent_count": "19"
 },
 {
-	"owner": "Cypress Semiconductor Corporation",
+	"owner": "Rockwell Automation Technologies, Inc.",
+	"patent_count": "19"
+},
+{
+	"owner": "Accenture Global Services GmbH",
+	"patent_count": "19"
+},
+{
+	"owner": "AT&T Corp.",
+	"patent_count": "19"
+},
+{
+	"owner": "Seiko Epson Corporation",
 	"patent_count": "18"
 },
 {
-	"owner": "Siebel Systems, Inc.",
+	"owner": "Siemens Medical Solutions USA, Inc.",
 	"patent_count": "18"
 },
 {
@@ -260,15 +416,39 @@
 	"patent_count": "18"
 },
 {
-	"owner": "Cadence Design Systems, Inc.",
+	"owner": "Redknee Inc.",
 	"patent_count": "18"
 },
 {
-	"owner": "McAfee, Inc.",
+	"owner": "Panasonic Corporation",
 	"patent_count": "18"
 },
 {
-	"owner": "Siemens Aktiengesellschaft",
+	"owner": "Koninklijke Philips Electronics N.V.",
+	"patent_count": "18"
+},
+{
+	"owner": "Electronics and Telecommunications Research Institute",
+	"patent_count": "17"
+},
+{
+	"owner": "Skyhook Wireless, Inc.",
+	"patent_count": "17"
+},
+{
+	"owner": "Genesys Telecommunications Laboratories, Inc.",
+	"patent_count": "17"
+},
+{
+	"owner": "Sony Computer Entertainment Inc.",
+	"patent_count": "17"
+},
+{
+	"owner": "Avid Technology, Inc.",
+	"patent_count": "17"
+},
+{
+	"owner": "Texas Instruments Incorporated",
 	"patent_count": "17"
 },
 {
@@ -276,19 +456,19 @@
 	"patent_count": "16"
 },
 {
-	"owner": "Telefonaktiebolaget L M Ericsson (publ)",
+	"owner": "Dell Products L.P.",
 	"patent_count": "16"
 },
 {
-	"owner": "Bank of America Corporation",
+	"owner": "Trading Technologies International Inc.",
 	"patent_count": "16"
 },
 {
-	"owner": "Teamon Systems, Inc.",
+	"owner": "LSI Corporation",
 	"patent_count": "16"
 },
 {
-	"owner": "Electronics and Telecommunications Research Institute",
+	"owner": "ConforMIS, Inc.",
 	"patent_count": "15"
 },
 {
@@ -296,20 +476,20 @@
 	"patent_count": "15"
 },
 {
-	"owner": "The Boeing Company",
+	"owner": "Ricoh Co., Ltd.",
 	"patent_count": "15"
 },
 {
-	"owner": "Panasonic Corporation",
+	"owner": "MicroUnity Systems Engineering, Inc.",
 	"patent_count": "15"
 },
 {
-	"owner": "Verizon Business Global LLC",
+	"owner": "AOL LLC",
 	"patent_count": "15"
 },
 {
-	"owner": "Lockheed Martin Corporation",
-	"patent_count": "14"
+	"owner": "Alcatel",
+	"patent_count": "15"
 },
 {
 	"owner": "CFPH, LLC",
@@ -320,31 +500,55 @@
 	"patent_count": "14"
 },
 {
-	"owner": "Trading Technologies International Inc.",
+	"owner": "United States Postal Service",
 	"patent_count": "14"
 },
 {
-	"owner": "Hitachi, Ltd.",
+	"owner": "Roy-G-Biv Corporation",
 	"patent_count": "14"
 },
 {
-	"owner": "Advanced Micro Devices, Inc.",
-	"patent_count": "13"
+	"owner": "Tilera Corporation",
+	"patent_count": "14"
 },
 {
-	"owner": "Sony Electronics Inc.",
-	"patent_count": "13"
+	"owner": "Dot Hill Systems Corporation",
+	"patent_count": "14"
+},
+{
+	"owner": "TeleCommunication Systems, Inc.",
+	"patent_count": "14"
+},
+{
+	"owner": "Oracle International Corp.",
+	"patent_count": "14"
+},
+{
+	"owner": "Alcatel-Lucent USA Inc.",
+	"patent_count": "14"
+},
+{
+	"owner": "Silicon Graphics, Inc.",
+	"patent_count": "14"
 },
 {
 	"owner": "Facebook, Inc.",
 	"patent_count": "13"
 },
 {
-	"owner": "LSI Corporation",
+	"owner": "Habanero Holdings, Inc.",
 	"patent_count": "13"
 },
 {
-	"owner": "MicroUnity Systems Engineering, Inc.",
+	"owner": "Phoenix Solutions, Inc.",
+	"patent_count": "13"
+},
+{
+	"owner": "Invensys Systems, Inc.",
+	"patent_count": "13"
+},
+{
+	"owner": "Sprint Spectrum L.P.",
 	"patent_count": "13"
 },
 {
@@ -352,15 +556,27 @@
 	"patent_count": "12"
 },
 {
-	"owner": "ConforMIS, Inc.",
+	"owner": "Micron Technology, Inc.",
 	"patent_count": "12"
 },
 {
-	"owner": "Siemens Medical Solutions USA, Inc.",
+	"owner": "QLOGIC, Corporation",
 	"patent_count": "12"
 },
 {
-	"owner": "Silverbrook Research Pty Ltd",
+	"owner": "Trend Micro Incorporated",
+	"patent_count": "12"
+},
+{
+	"owner": "Kabushiki Kaisha Toshiba",
+	"patent_count": "12"
+},
+{
+	"owner": "NEC Corporation",
+	"patent_count": "12"
+},
+{
+	"owner": "Palm, Inc.",
 	"patent_count": "12"
 },
 {
@@ -368,39 +584,35 @@
 	"patent_count": "12"
 },
 {
-	"owner": "Sun Microsystems, Inc.",
+	"owner": "iAnywhere Solutions, Inc.",
 	"patent_count": "12"
 },
 {
-	"owner": "Mitutoyo Corporation",
+	"owner": "Honeywell International Inc.",
+	"patent_count": "12"
+},
+{
+	"owner": "NTT DoCoMo, Inc.",
+	"patent_count": "12"
+},
+{
+	"owner": "Thomson Licensing",
 	"patent_count": "11"
 },
 {
-	"owner": "NCR Corporation",
+	"owner": "Music Public Broadcasting, Inc.",
 	"patent_count": "11"
 },
 {
-	"owner": "Skyhook Wireless, Inc.",
+	"owner": "Trend Micro, Inc.",
 	"patent_count": "11"
 },
 {
-	"owner": "Network Appliance, Inc.",
+	"owner": "Diebold Self-Service Systems division of Diebold, Incorporated",
 	"patent_count": "11"
 },
 {
-	"owner": "Sony Computer Entertainment Inc.",
-	"patent_count": "11"
-},
-{
-	"owner": "Avid Technology, Inc.",
-	"patent_count": "11"
-},
-{
-	"owner": "Unisys Corporation",
-	"patent_count": "11"
-},
-{
-	"owner": "Habanero Holdings, Inc.",
+	"owner": "Emulex Design & Manufacturing Corporation",
 	"patent_count": "11"
 },
 {
@@ -408,31 +620,43 @@
 	"patent_count": "11"
 },
 {
-	"owner": "Xilinx, Inc.",
+	"owner": "Massachusetts Institute of Technology",
 	"patent_count": "11"
 },
 {
-	"owner": "United States Postal Service",
+	"owner": "ShoreTel, Inc.",
 	"patent_count": "10"
 },
 {
-	"owner": "Redknee Inc.",
+	"owner": "Nintendo Co., Ltd.",
 	"patent_count": "10"
 },
 {
-	"owner": "Music Public Broadcasting, Inc.",
+	"owner": "General Electric Company",
 	"patent_count": "10"
 },
 {
-	"owner": "Trend Micro, Inc.",
+	"owner": "The United States of America as represented by the Secretary of the Navy",
 	"patent_count": "10"
 },
 {
-	"owner": "Diebold Self-Service Systems division of Diebold, Incorporated",
+	"owner": "AT&T Intellectual Property I, LP",
 	"patent_count": "10"
 },
 {
-	"owner": "Honeywell International Inc.",
+	"owner": "ATI Technologies, Inc.",
+	"patent_count": "10"
+},
+{
+	"owner": "TracBeam LLC",
+	"patent_count": "10"
+},
+{
+	"owner": "Time Warner Cable Inc.",
+	"patent_count": "10"
+},
+{
+	"owner": "Intertrust Technologies Corporation",
 	"patent_count": "10"
 },
 {
@@ -444,19 +668,23 @@
 	"patent_count": "10"
 },
 {
-	"owner": "Alcatel-Lucent USA Inc.",
+	"owner": "Landmark Graphics Corporation",
 	"patent_count": "10"
 },
 {
-	"owner": "Nortel Networks Limited",
+	"owner": "Exbiblio B.V.",
 	"patent_count": "10"
 },
 {
-	"owner": "Dell Products L.P.",
-	"patent_count": "9"
+	"owner": "Cingular Wireless II, LLC",
+	"patent_count": "10"
 },
 {
-	"owner": "ShoreTel, Inc.",
+	"owner": "America Online, Inc.",
+	"patent_count": "10"
+},
+{
+	"owner": "LG Electronics Inc.",
 	"patent_count": "9"
 },
 {
@@ -464,11 +692,19 @@
 	"patent_count": "9"
 },
 {
+	"owner": "IGT",
+	"patent_count": "9"
+},
+{
 	"owner": "Enpulz, L.L.C.",
 	"patent_count": "9"
 },
 {
-	"owner": "Trend Micro Incorporated",
+	"owner": "American Megatrends, Inc.",
+	"patent_count": "9"
+},
+{
+	"owner": "Raytheon Company",
 	"patent_count": "9"
 },
 {
@@ -476,31 +712,71 @@
 	"patent_count": "9"
 },
 {
-	"owner": "AT&T Intellectual Property I, LP",
+	"owner": "Fisher-Rosemount Systems, Inc.",
 	"patent_count": "9"
 },
 {
-	"owner": "Rockwell Automation Technologies, Inc.",
+	"owner": "Aloft Media, LLC",
 	"patent_count": "9"
 },
 {
-	"owner": "Symbol Technologies, Inc.",
+	"owner": "Qwest Communications International Inc.",
 	"patent_count": "9"
 },
 {
-	"owner": "Phoenix Solutions, Inc.",
+	"owner": "Fair Isaac Corporation",
 	"patent_count": "9"
 },
 {
-	"owner": "Invensys Systems, Inc.",
+	"owner": "Agilent Technologies, Inc.",
 	"patent_count": "9"
 },
 {
-	"owner": "LG Electronics Inc.",
+	"owner": "Sony Electronics, Inc.",
+	"patent_count": "9"
+},
+{
+	"owner": "Thomson Licensing S.A.",
+	"patent_count": "9"
+},
+{
+	"owner": "Sonic Solutions, A California Corporation",
+	"patent_count": "9"
+},
+{
+	"owner": "Accenture, LLP",
+	"patent_count": "9"
+},
+{
+	"owner": "Disney Enterprises, Inc.",
 	"patent_count": "8"
 },
 {
-	"owner": "Palm, Inc.",
+	"owner": "Battelle Energy Alliance, LLC",
+	"patent_count": "8"
+},
+{
+	"owner": "Synopsys, Inc.",
+	"patent_count": "8"
+},
+{
+	"owner": "General Instrument Corporation",
+	"patent_count": "8"
+},
+{
+	"owner": "A9.com, Inc.",
+	"patent_count": "8"
+},
+{
+	"owner": "Rockwell Collins, Inc.",
+	"patent_count": "8"
+},
+{
+	"owner": "Cox Communications, Inc.",
+	"patent_count": "8"
+},
+{
+	"owner": "Microsoft Corp.",
 	"patent_count": "8"
 },
 {
@@ -508,11 +784,19 @@
 	"patent_count": "8"
 },
 {
-	"owner": "Tilera Corporation",
+	"owner": "SellerBid, Inc.",
 	"patent_count": "8"
 },
 {
-	"owner": "Accenture Global Services GmbH",
+	"owner": "BRITISH TELECOMMUNICATIONS public limited company",
+	"patent_count": "8"
+},
+{
+	"owner": "Marvell International Ltd.",
+	"patent_count": "8"
+},
+{
+	"owner": "Digimarc Corporation",
 	"patent_count": "8"
 },
 {
@@ -520,16 +804,48 @@
 	"patent_count": "8"
 },
 {
-	"owner": "Time Warner Cable Inc.",
+	"owner": "Fortinet, Inc.",
 	"patent_count": "8"
 },
 {
-	"owner": "TeleCommunication Systems, Inc.",
+	"owner": "Sybase, Inc.",
 	"patent_count": "8"
 },
 {
-	"owner": "Thomson Licensing",
-	"patent_count": "7"
+	"owner": "Security First Corporation",
+	"patent_count": "8"
+},
+{
+	"owner": "Immersion Corporation",
+	"patent_count": "8"
+},
+{
+	"owner": "Openwave Systems Inc.",
+	"patent_count": "8"
+},
+{
+	"owner": "Adaptec, Inc.",
+	"patent_count": "8"
+},
+{
+	"owner": "Matsushita Electric Industrial Co., Ltd.",
+	"patent_count": "8"
+},
+{
+	"owner": "Western Digital Technologies, Inc.",
+	"patent_count": "8"
+},
+{
+	"owner": "Apple Computer, Inc.",
+	"patent_count": "8"
+},
+{
+	"owner": "Tangis Corporation",
+	"patent_count": "8"
+},
+{
+	"owner": "United Devices, Inc.",
+	"patent_count": "8"
 },
 {
 	"owner": "The Nielsen Company (US), LLC",
@@ -544,19 +860,7 @@
 	"patent_count": "7"
 },
 {
-	"owner": "General Electric Company",
-	"patent_count": "7"
-},
-{
-	"owner": "American Megatrends, Inc.",
-	"patent_count": "7"
-},
-{
 	"owner": "Gogrid, LLC",
-	"patent_count": "7"
-},
-{
-	"owner": "Raytheon Company",
 	"patent_count": "7"
 },
 {
@@ -564,27 +868,15 @@
 	"patent_count": "7"
 },
 {
+	"owner": "JPMorgan Chase Bank, N.A.",
+	"patent_count": "7"
+},
+{
 	"owner": "TP Lab, Inc.",
 	"patent_count": "7"
 },
 {
-	"owner": "A9.com, Inc.",
-	"patent_count": "7"
-},
-{
-	"owner": "Akamai Technologies, Inc.",
-	"patent_count": "7"
-},
-{
-	"owner": "SellerBid, Inc.",
-	"patent_count": "7"
-},
-{
-	"owner": "Fisher-Rosemount Systems, Inc.",
-	"patent_count": "7"
-},
-{
-	"owner": "Koninklijke Philips Electronics N.V.",
+	"owner": "TouchTunes Music Corporation",
 	"patent_count": "7"
 },
 {
@@ -592,19 +884,31 @@
 	"patent_count": "7"
 },
 {
-	"owner": "TracBeam LLC",
+	"owner": "Check Point Software Technologies, Inc.",
 	"patent_count": "7"
 },
 {
-	"owner": "iAnywhere Solutions, Inc.",
+	"owner": "Silicon Graphics International",
 	"patent_count": "7"
 },
 {
-	"owner": "Oracle International Corp.",
+	"owner": "Pixar",
 	"patent_count": "7"
 },
 {
-	"owner": "Fuji Xerox Co., Ltd.",
+	"owner": "Trek 2000 International Ltd.",
+	"patent_count": "7"
+},
+{
+	"owner": "Computer Sciences Corporation",
+	"patent_count": "7"
+},
+{
+	"owner": "Network Resonance, Inc.",
+	"patent_count": "7"
+},
+{
+	"owner": "Kimberly-Clark Worldwide, Inc.",
 	"patent_count": "7"
 },
 {
@@ -612,7 +916,27 @@
 	"patent_count": "7"
 },
 {
-	"owner": "Seiko Epson Corporation",
+	"owner": "AOL LLC, a Delaware Limited Liability Company",
+	"patent_count": "7"
+},
+{
+	"owner": "S2 Technologies, Inc.",
+	"patent_count": "7"
+},
+{
+	"owner": "Restaurant Services, Inc.",
+	"patent_count": "7"
+},
+{
+	"owner": "Qualcomm Inc.",
+	"patent_count": "7"
+},
+{
+	"owner": "BellSouth Intellectual Property Corp.",
+	"patent_count": "7"
+},
+{
+	"owner": "Exent Technologies, Ltd.",
 	"patent_count": "6"
 },
 {
@@ -624,19 +948,19 @@
 	"patent_count": "6"
 },
 {
-	"owner": "QLOGIC, Corporation",
-	"patent_count": "6"
-},
-{
 	"owner": "Brocade Communications Systems, Inc.",
 	"patent_count": "6"
 },
 {
-	"owner": "Synopsys, Inc.",
+	"owner": "Wind River Systems, Inc.",
 	"patent_count": "6"
 },
 {
-	"owner": "General Instrument Corporation",
+	"owner": "Hon Hai Precision Industry Co., Ltd.",
+	"patent_count": "6"
+},
+{
+	"owner": "Morgan Stanley",
 	"patent_count": "6"
 },
 {
@@ -645,10 +969,6 @@
 },
 {
 	"owner": "Huawei Technologies Co., Ltd.",
-	"patent_count": "6"
-},
-{
-	"owner": "Genesys Telecommunications Laboratories, Inc.",
 	"patent_count": "6"
 },
 {
@@ -664,7 +984,11 @@
 	"patent_count": "6"
 },
 {
-	"owner": "Cox Communications, Inc.",
+	"owner": "Lenovo (Singapore) Pte. Ltd.",
+	"patent_count": "6"
+},
+{
+	"owner": "Avaya Technology Corp.",
 	"patent_count": "6"
 },
 {
@@ -672,15 +996,7 @@
 	"patent_count": "6"
 },
 {
-	"owner": "Roy-G-Biv Corporation",
-	"patent_count": "6"
-},
-{
-	"owner": "ATI Technologies, Inc.",
-	"patent_count": "6"
-},
-{
-	"owner": "Marvell International Ltd.",
+	"owner": "Axeda Corporation",
 	"patent_count": "6"
 },
 {
@@ -692,10 +1008,6 @@
 	"patent_count": "6"
 },
 {
-	"owner": "Ricoh Co., Ltd.",
-	"patent_count": "6"
-},
-{
 	"owner": "eBay, Inc.",
 	"patent_count": "6"
 },
@@ -704,15 +1016,31 @@
 	"patent_count": "6"
 },
 {
-	"owner": "Fortinet, Inc.",
+	"owner": "AT&T Mobility II, LLC",
 	"patent_count": "6"
 },
 {
-	"owner": "Sybase, Inc.",
+	"owner": "Activcard Ireland, Limited",
 	"patent_count": "6"
 },
 {
-	"owner": "Pixar",
+	"owner": "TVWorks, LLC",
+	"patent_count": "6"
+},
+{
+	"owner": "Fannie Mae",
+	"patent_count": "6"
+},
+{
+	"owner": "SAS Institute Inc.",
+	"patent_count": "6"
+},
+{
+	"owner": "Rain Bird Corporation",
+	"patent_count": "6"
+},
+{
+	"owner": "Dialogic Corporation",
 	"patent_count": "6"
 },
 {
@@ -720,12 +1048,84 @@
 	"patent_count": "6"
 },
 {
-	"owner": "Fair Isaac Corporation",
+	"owner": "Gracenote, Inc.",
 	"patent_count": "6"
 },
 {
-	"owner": "NTT DoCoMo, Inc.",
+	"owner": "The DIRECTV Group, Inc.",
 	"patent_count": "6"
+},
+{
+	"owner": "3M Innovative Properties Company",
+	"patent_count": "6"
+},
+{
+	"owner": "Netezza Corporation",
+	"patent_count": "6"
+},
+{
+	"owner": "Sony Deutschland GmbH",
+	"patent_count": "6"
+},
+{
+	"owner": "Infineon Technologies AG",
+	"patent_count": "6"
+},
+{
+	"owner": "GameLogic Inc.",
+	"patent_count": "6"
+},
+{
+	"owner": "Autocell Laboratories, Inc.",
+	"patent_count": "6"
+},
+{
+	"owner": "Cassatt Corporation",
+	"patent_count": "6"
+},
+{
+	"owner": "Sedna Patent Services, LLC",
+	"patent_count": "6"
+},
+{
+	"owner": "Copyright Clearance Center, Inc.",
+	"patent_count": "6"
+},
+{
+	"owner": "VECTORsgi, Inc.",
+	"patent_count": "6"
+},
+{
+	"owner": "ClearCube Technology, Inc.",
+	"patent_count": "6"
+},
+{
+	"owner": "ZiLOG, Inc.",
+	"patent_count": "6"
+},
+{
+	"owner": "BeVocal, Inc.",
+	"patent_count": "6"
+},
+{
+	"owner": "Advantest America R&D Center, Inc.",
+	"patent_count": "6"
+},
+{
+	"owner": "BellSouth Intellectual Property Corporation",
+	"patent_count": "6"
+},
+{
+	"owner": "Incipient, Inc.",
+	"patent_count": "6"
+},
+{
+	"owner": "MCI, Inc.",
+	"patent_count": "6"
+},
+{
+	"owner": "Lightwaves Systems, Inc.",
+	"patent_count": "5"
 },
 {
 	"owner": "Appcelerator, Inc.",
@@ -744,23 +1144,11 @@
 	"patent_count": "5"
 },
 {
-	"owner": "Disney Enterprises, Inc.",
-	"patent_count": "5"
-},
-{
-	"owner": "Telefonaktiebolaget LM Ericsson (Publ)",
-	"patent_count": "5"
-},
-{
-	"owner": "IGT",
-	"patent_count": "5"
-},
-{
 	"owner": "Business Objects Software Limited",
 	"patent_count": "5"
 },
 {
-	"owner": "Morgan Stanley",
+	"owner": "Trimble Navigation Limited",
 	"patent_count": "5"
 },
 {
@@ -776,19 +1164,7 @@
 	"patent_count": "5"
 },
 {
-	"owner": "JPMorgan Chase Bank, N.A.",
-	"patent_count": "5"
-},
-{
 	"owner": "Facebook Inc.",
-	"patent_count": "5"
-},
-{
-	"owner": "TouchTunes Music Corporation",
-	"patent_count": "5"
-},
-{
-	"owner": "Kabushiki Kaisha Toshiba",
 	"patent_count": "5"
 },
 {
@@ -796,7 +1172,15 @@
 	"patent_count": "5"
 },
 {
-	"owner": "Rockwell Collins, Inc.",
+	"owner": "BMC Software, Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "Mitel Networks Corporation",
+	"patent_count": "5"
+},
+{
+	"owner": "F5 Networks, Inc.",
 	"patent_count": "5"
 },
 {
@@ -804,11 +1188,15 @@
 	"patent_count": "5"
 },
 {
+	"owner": "Chicago Board Options Exchange, Incorporated",
+	"patent_count": "5"
+},
+{
 	"owner": "Motorola Mobility, Inc.",
 	"patent_count": "5"
 },
 {
-	"owner": "Emulex Design & Manufacturing Corporation",
+	"owner": "Visto Corporation",
 	"patent_count": "5"
 },
 {
@@ -824,27 +1212,27 @@
 	"patent_count": "5"
 },
 {
-	"owner": "Silicon Graphics International",
-	"patent_count": "5"
-},
-{
 	"owner": "United Video Properties, Inc.",
 	"patent_count": "5"
 },
 {
-	"owner": "SAP Aktiengesellschaft",
+	"owner": "Tracer Detection Technology Corp.",
 	"patent_count": "5"
 },
 {
-	"owner": "Activcard Ireland, Limited",
+	"owner": "Charles Schwab & Co., Inc.",
 	"patent_count": "5"
 },
 {
-	"owner": "TVWorks, LLC",
+	"owner": "Clinical Decision Support, LLC",
 	"patent_count": "5"
 },
 {
-	"owner": "Fannie Mae",
+	"owner": "e2interactive, Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "The Math Works, Inc.",
 	"patent_count": "5"
 },
 {
@@ -852,31 +1240,99 @@
 	"patent_count": "5"
 },
 {
+	"owner": "SNAPin Software Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "Hyperion Solutions Corporation",
+	"patent_count": "5"
+},
+{
+	"owner": "Microsoft Corproation",
+	"patent_count": "5"
+},
+{
+	"owner": "Crossroads Systems, Inc.",
+	"patent_count": "5"
+},
+{
 	"owner": "Round Rock Research, LLC",
 	"patent_count": "5"
 },
 {
-	"owner": "The DIRECTV Group, Inc.",
+	"owner": "The Research Foundation of State University of New York",
 	"patent_count": "5"
 },
 {
-	"owner": "Sony Electronics, Inc.",
+	"owner": "MarkMonitor Inc.",
 	"patent_count": "5"
 },
 {
-	"owner": "GameLogic Inc.",
+	"owner": "Verdasys, Inc.",
 	"patent_count": "5"
 },
 {
-	"owner": "Motorola, Inc.",
+	"owner": "DPHI Acquisitions, Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "Primal Fusion Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "NVIDIA International, Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "Toshiba Tec Kabushiki Kaisha",
+	"patent_count": "5"
+},
+{
+	"owner": "Softricity, Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "Garmin Ltd.",
+	"patent_count": "5"
+},
+{
+	"owner": "Siemens Medical Solutions Health Services Corporation",
+	"patent_count": "5"
+},
+{
+	"owner": "FusionOne, Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "AT&T Delaware Intellectual Property, Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "Gateway Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "Cognio, Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "Cognos Incorporated",
+	"patent_count": "5"
+},
+{
+	"owner": "Indeliq, Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "Sun Microsystems Inc.",
+	"patent_count": "5"
+},
+{
+	"owner": "Oculus Technologies Corporation",
 	"patent_count": "5"
 },
 {
 	"owner": "Brother Kogyo Kabushiki Kaisha",
-	"patent_count": "4"
-},
-{
-	"owner": "Lightwaves Systems, Inc.",
 	"patent_count": "4"
 },
 {
@@ -896,7 +1352,7 @@
 	"patent_count": "4"
 },
 {
-	"owner": "Exent Technologies, Ltd.",
+	"owner": "Certicom Corp.",
 	"patent_count": "4"
 },
 {
@@ -908,11 +1364,11 @@
 	"patent_count": "4"
 },
 {
-	"owner": "Joingo, LLC",
+	"owner": "Altera Corporation",
 	"patent_count": "4"
 },
 {
-	"owner": "Battelle Energy Alliance, LLC",
+	"owner": "Joingo, LLC",
 	"patent_count": "4"
 },
 {
@@ -928,15 +1384,19 @@
 	"patent_count": "4"
 },
 {
+	"owner": "STMicroelectronics S.R.L.",
+	"patent_count": "4"
+},
+{
 	"owner": "Limelight Networks, Inc.",
 	"patent_count": "4"
 },
 {
-	"owner": "Intertrust Technologies Corp.",
+	"owner": "Social Communications Company",
 	"patent_count": "4"
 },
 {
-	"owner": "Social Communications Company",
+	"owner": "Digi International Inc.",
 	"patent_count": "4"
 },
 {
@@ -956,19 +1416,7 @@
 	"patent_count": "4"
 },
 {
-	"owner": "BMC Software, Inc.",
-	"patent_count": "4"
-},
-{
 	"owner": "Telecom Italia S.p.A.",
-	"patent_count": "4"
-},
-{
-	"owner": "NEC Corporation",
-	"patent_count": "4"
-},
-{
-	"owner": "F5 Networks, Inc.",
 	"patent_count": "4"
 },
 {
@@ -976,15 +1424,31 @@
 	"patent_count": "4"
 },
 {
+	"owner": "TopCoder, Inc.",
+	"patent_count": "4"
+},
+{
 	"owner": "VIA Technologies, Inc.",
 	"patent_count": "4"
 },
 {
-	"owner": "BRITISH TELECOMMUNICATIONS public limited company",
+	"owner": "FEI Company",
 	"patent_count": "4"
 },
 {
-	"owner": "Chicago Board Options Exchange, Incorporated",
+	"owner": "Qwest Communications International Inc",
+	"patent_count": "4"
+},
+{
+	"owner": "New York University",
+	"patent_count": "4"
+},
+{
+	"owner": "Stamps.com",
+	"patent_count": "4"
+},
+{
+	"owner": "Hand Held Products, Inc.",
 	"patent_count": "4"
 },
 {
@@ -996,11 +1460,23 @@
 	"patent_count": "4"
 },
 {
+	"owner": "Solarflare Communications, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "British Telecommunications PLC",
+	"patent_count": "4"
+},
+{
+	"owner": "Websense UK Limited",
+	"patent_count": "4"
+},
+{
 	"owner": "Software AG",
 	"patent_count": "4"
 },
 {
-	"owner": "Check Point Software Technologies, Inc.",
+	"owner": "Platform Computing Corporation",
 	"patent_count": "4"
 },
 {
@@ -1012,7 +1488,11 @@
 	"patent_count": "4"
 },
 {
-	"owner": "Intertrust Technologies Corporation",
+	"owner": "RGB Networks, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "ARM Limited",
 	"patent_count": "4"
 },
 {
@@ -1020,11 +1500,11 @@
 	"patent_count": "4"
 },
 {
-	"owner": "Texas Instruments Incorporated",
+	"owner": "AMX LLC",
 	"patent_count": "4"
 },
 {
-	"owner": "Rain Bird Corporation",
+	"owner": "Safenet, Inc.",
 	"patent_count": "4"
 },
 {
@@ -1033,18 +1513,6 @@
 },
 {
 	"owner": "Redknee, Inc.",
-	"patent_count": "4"
-},
-{
-	"owner": "Dialogic Corporation",
-	"patent_count": "4"
-},
-{
-	"owner": "Landmark Graphics Corporation",
-	"patent_count": "4"
-},
-{
-	"owner": "The Math Works, Inc.",
 	"patent_count": "4"
 },
 {
@@ -1060,7 +1528,7 @@
 	"patent_count": "4"
 },
 {
-	"owner": "Microsoft Corproation",
+	"owner": "Tradeweb Markets LLC",
 	"patent_count": "4"
 },
 {
@@ -1068,7 +1536,7 @@
 	"patent_count": "4"
 },
 {
-	"owner": "Exbiblio B.V.",
+	"owner": "Case Western Reserve University",
 	"patent_count": "4"
 },
 {
@@ -1076,11 +1544,27 @@
 	"patent_count": "4"
 },
 {
+	"owner": "Robert Bosch GmbH",
+	"patent_count": "4"
+},
+{
+	"owner": "eCharge Corporation",
+	"patent_count": "4"
+},
+{
+	"owner": "TransNexus, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "Boundary Solutions, Inc.",
+	"patent_count": "4"
+},
+{
 	"owner": "Navteq North America, LLC",
 	"patent_count": "4"
 },
 {
-	"owner": "Network Resonance, Inc.",
+	"owner": "Qwest Communications International, Inc.",
 	"patent_count": "4"
 },
 {
@@ -1088,15 +1572,15 @@
 	"patent_count": "4"
 },
 {
+	"owner": "Rose Blush Software LLC",
+	"patent_count": "4"
+},
+{
 	"owner": "Hunch Inc.",
 	"patent_count": "4"
 },
 {
-	"owner": "Infineon Technologies AG",
-	"patent_count": "4"
-},
-{
-	"owner": "Primal Fusion Inc.",
+	"owner": "SAP Portals Israel Ltd.",
 	"patent_count": "4"
 },
 {
@@ -1104,11 +1588,15 @@
 	"patent_count": "4"
 },
 {
+	"owner": "Tollgrade Communications, Inc.",
+	"patent_count": "4"
+},
+{
 	"owner": "i365 Inc.",
 	"patent_count": "4"
 },
 {
-	"owner": "Massachusetts Institute of Technology",
+	"owner": "Kayak Software Corporation",
 	"patent_count": "4"
 },
 {
@@ -1116,7 +1604,127 @@
 	"patent_count": "4"
 },
 {
+	"owner": "PalmSource Inc.",
+	"patent_count": "4"
+},
+{
 	"owner": "IronPort Systems, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "Groove Networks, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "MKS Instruments, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "SCA Technica, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "Convergys CMG Utah",
+	"patent_count": "4"
+},
+{
+	"owner": "OP40, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "First Data Corporation",
+	"patent_count": "4"
+},
+{
+	"owner": "iRise",
+	"patent_count": "4"
+},
+{
+	"owner": "QNX Software Systems GmbH & Co. KG",
+	"patent_count": "4"
+},
+{
+	"owner": "Telcordia Technologies, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "Sandia Corporation",
+	"patent_count": "4"
+},
+{
+	"owner": "Picsel (Research) Limited",
+	"patent_count": "4"
+},
+{
+	"owner": "Adomo, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "Nokia, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "Avocent Huntsville Corporation",
+	"patent_count": "4"
+},
+{
+	"owner": "Advanced Structure Monitoring, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "Converged Data Solutions LLC",
+	"patent_count": "4"
+},
+{
+	"owner": "Walker Digital, LLC",
+	"patent_count": "4"
+},
+{
+	"owner": "Contentguard Holdings, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "National Semiconductor Corporation",
+	"patent_count": "4"
+},
+{
+	"owner": "Snap-On Incorporated",
+	"patent_count": "4"
+},
+{
+	"owner": "Nokia Networks Oy",
+	"patent_count": "4"
+},
+{
+	"owner": "NCR Corp.",
+	"patent_count": "4"
+},
+{
+	"owner": "Matsushita Electric Works, Ltd.",
+	"patent_count": "4"
+},
+{
+	"owner": "Secure Computing Corporation",
+	"patent_count": "4"
+},
+{
+	"owner": "Unicast Communications Corporation",
+	"patent_count": "4"
+},
+{
+	"owner": "Twin Communications of America, Inc.",
+	"patent_count": "4"
+},
+{
+	"owner": "International Business Machines Corp.",
+	"patent_count": "4"
+},
+{
+	"owner": "3Com Corporation",
+	"patent_count": "4"
+},
+{
+	"owner": "Microtune (San Diego), Inc.",
 	"patent_count": "4"
 },
 {
@@ -1125,10 +1733,6 @@
 },
 {
 	"owner": "Empire Technology Development LLC",
-	"patent_count": "3"
-},
-{
-	"owner": "Lookout, Inc.",
 	"patent_count": "3"
 },
 {
@@ -1144,11 +1748,23 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Micron Technology, Inc.",
+	"owner": "AT&T Intellectual Property I, L. P.",
 	"patent_count": "3"
 },
 {
-	"owner": "AT&T Intellectual Property I, L. P.",
+	"owner": "California Institute of Technology",
+	"patent_count": "3"
+},
+{
+	"owner": "Oblong Industries, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Ricoh Americas Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Seriosity, Inc.",
 	"patent_count": "3"
 },
 {
@@ -1156,11 +1772,11 @@
 	"patent_count": "3"
 },
 {
-	"owner": "AiLive Inc.",
+	"owner": "Activision Publishing, Inc.",
 	"patent_count": "3"
 },
 {
-	"owner": "Altera Corporation",
+	"owner": "AiLive Inc.",
 	"patent_count": "3"
 },
 {
@@ -1188,7 +1804,11 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Hon Hai Precision Industry Co., Ltd.",
+	"owner": "National University of Singapore",
+	"patent_count": "3"
+},
+{
+	"owner": "Harman Becker Automotive Systems GmbH",
 	"patent_count": "3"
 },
 {
@@ -1197,6 +1817,10 @@
 },
 {
 	"owner": "Transaction Wireless, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Sony Computer Entertainment America Inc.",
 	"patent_count": "3"
 },
 {
@@ -1232,14 +1856,6 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Mitel Networks Corporation",
-	"patent_count": "3"
-},
-{
-	"owner": "Lenovo (Singapore) Pte. Ltd.",
-	"patent_count": "3"
-},
-{
 	"owner": "Blue Coat Systems, Inc.",
 	"patent_count": "3"
 },
@@ -1252,7 +1868,7 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Microsoft Corp.",
+	"owner": "Advanced Voice Recognition Systems, Inc.",
 	"patent_count": "3"
 },
 {
@@ -1264,7 +1880,7 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Qwest Communications International Inc",
+	"owner": "Nice Systems Ltd.",
 	"patent_count": "3"
 },
 {
@@ -1272,11 +1888,11 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Chicago Mercantile Exchange Inc.",
+	"owner": "Industrial Technology Research Institute",
 	"patent_count": "3"
 },
 {
-	"owner": "Stamps.com",
+	"owner": "Chicago Mercantile Exchange Inc.",
 	"patent_count": "3"
 },
 {
@@ -1288,6 +1904,10 @@
 	"patent_count": "3"
 },
 {
+	"owner": "Arena Solutions, Inc.",
+	"patent_count": "3"
+},
+{
 	"owner": "Phunware, Inc.",
 	"patent_count": "3"
 },
@@ -1296,15 +1916,7 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Hand Held Products, Inc.",
-	"patent_count": "3"
-},
-{
 	"owner": "Semandex Networks, Inc.",
-	"patent_count": "3"
-},
-{
-	"owner": "Axeda Corporation",
 	"patent_count": "3"
 },
 {
@@ -1312,7 +1924,7 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Solarflare Communications, Inc.",
+	"owner": "Ellie Mae, Inc.",
 	"patent_count": "3"
 },
 {
@@ -1324,7 +1936,7 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Digimarc Corporation",
+	"owner": "Diebold Self-Service Systems, division of Diebold, Incorporated",
 	"patent_count": "3"
 },
 {
@@ -1332,11 +1944,11 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Experian Marketing Solutions, Inc.",
+	"owner": "RealNetworks, Inc.",
 	"patent_count": "3"
 },
 {
-	"owner": "Websense UK Limited",
+	"owner": "Experian Marketing Solutions, Inc.",
 	"patent_count": "3"
 },
 {
@@ -1348,11 +1960,11 @@
 	"patent_count": "3"
 },
 {
-	"owner": "University of South Florida",
+	"owner": "Borgia/Cummins, LLC",
 	"patent_count": "3"
 },
 {
-	"owner": "Platform Computing Corporation",
+	"owner": "University of South Florida",
 	"patent_count": "3"
 },
 {
@@ -1360,19 +1972,11 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Aloft Media, LLC",
-	"patent_count": "3"
-},
-{
-	"owner": "RGB Networks, Inc.",
-	"patent_count": "3"
-},
-{
 	"owner": "Titus, Inc.",
 	"patent_count": "3"
 },
 {
-	"owner": "Tracer Detection Technology Corp.",
+	"owner": "MCI Communications Corporation",
 	"patent_count": "3"
 },
 {
@@ -1380,19 +1984,7 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Dot Hill Systems Corporation",
-	"patent_count": "3"
-},
-{
-	"owner": "AMX LLC",
-	"patent_count": "3"
-},
-{
 	"owner": "MarketAxess Holdings, Inc.",
-	"patent_count": "3"
-},
-{
-	"owner": "AT&T Mobility II, LLC",
 	"patent_count": "3"
 },
 {
@@ -1404,11 +1996,19 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Security First Corporation",
+	"owner": "TP Lab",
 	"patent_count": "3"
 },
 {
 	"owner": "Mitac International Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "InterDigital Technology Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Hewlett-Packard Company",
 	"patent_count": "3"
 },
 {
@@ -1432,6 +2032,18 @@
 	"patent_count": "3"
 },
 {
+	"owner": "Media Captioning Services",
+	"patent_count": "3"
+},
+{
+	"owner": "Itron, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Gemalto SA",
+	"patent_count": "3"
+},
+{
 	"owner": "Voltaire Ltd.",
 	"patent_count": "3"
 },
@@ -1441,14 +2053,6 @@
 },
 {
 	"owner": "Innopath Software, Inc.",
-	"patent_count": "3"
-},
-{
-	"owner": "SNAPin Software Inc.",
-	"patent_count": "3"
-},
-{
-	"owner": "Tradeweb Markets LLC",
 	"patent_count": "3"
 },
 {
@@ -1464,15 +2068,19 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Gracenote, Inc.",
+	"owner": "Seagate Technology LLC",
 	"patent_count": "3"
 },
 {
-	"owner": "The Research Foundation of State University of New York",
+	"owner": "Bally Gaming International, Inc.",
 	"patent_count": "3"
 },
 {
-	"owner": "3M Innovative Properties Company",
+	"owner": "Populex Corp.",
+	"patent_count": "3"
+},
+{
+	"owner": "Fotiva, Inc.",
 	"patent_count": "3"
 },
 {
@@ -1484,7 +2092,11 @@
 	"patent_count": "3"
 },
 {
-	"owner": "MarkMonitor Inc.",
+	"owner": "Oracle Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Mircosoft Corporation",
 	"patent_count": "3"
 },
 {
@@ -1492,7 +2104,15 @@
 	"patent_count": "3"
 },
 {
-	"owner": "DPHI Acquisitions, Inc.",
+	"owner": "GameLogic, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Gemstone Systems, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Hewlett-Packard Development Company L.P.",
 	"patent_count": "3"
 },
 {
@@ -1504,23 +2124,19 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Sony Deutschland GmbH",
+	"owner": "Coverity, Inc.",
 	"patent_count": "3"
 },
 {
-	"owner": "Immersion Corporation",
+	"owner": "Sentillion, Inc.",
 	"patent_count": "3"
 },
 {
-	"owner": "Agilent Technologies, Inc.",
+	"owner": "Hitwise Pty. Ltd.",
 	"patent_count": "3"
 },
 {
-	"owner": "SAP Portals Israel Ltd.",
-	"patent_count": "3"
-},
-{
-	"owner": "Sprint Spectrum L.P.",
+	"owner": "SensABLE Technologies, Inc.",
 	"patent_count": "3"
 },
 {
@@ -1532,7 +2148,15 @@
 	"patent_count": "3"
 },
 {
-	"owner": "Ciena Corporation",
+	"owner": "DataCore Software Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Alacritech, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Corel Corporation",
 	"patent_count": "3"
 },
 {
@@ -1540,11 +2164,27 @@
 	"patent_count": "3"
 },
 {
+	"owner": "Integrien Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "SunGard Energy Systems Inc.",
+	"patent_count": "3"
+},
+{
 	"owner": "Pipeline Financial Group, Inc.",
 	"patent_count": "3"
 },
 {
-	"owner": "NVIDIA International, Inc.",
+	"owner": "Iron Mountain Incorporated",
+	"patent_count": "3"
+},
+{
+	"owner": "Eastman Kodak Company",
+	"patent_count": "3"
+},
+{
+	"owner": "Comtech Mobile Datacom Corporation",
 	"patent_count": "3"
 },
 {
@@ -1552,15 +2192,231 @@
 	"patent_count": "3"
 },
 {
+	"owner": "Photronics, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "SAP (AG)",
+	"patent_count": "3"
+},
+{
+	"owner": "Searete LLC",
+	"patent_count": "3"
+},
+{
+	"owner": "RTO Software, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Landmark Graphics Corporation, a Halliburton Company",
+	"patent_count": "3"
+},
+{
 	"owner": "Navio Systems, Inc.",
 	"patent_count": "3"
 },
 {
-	"owner": "PalmSource Inc.",
+	"owner": "Aptana, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "BEA Systems Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "XimpleWare, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Digital Data Research Company",
+	"patent_count": "3"
+},
+{
+	"owner": "Motive, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Diebold, Incorporated",
+	"patent_count": "3"
+},
+{
+	"owner": "Deutsche Telekom AG",
+	"patent_count": "3"
+},
+{
+	"owner": "Access Systems Americas, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Northrop Grumman Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "The Regents of the University of California",
 	"patent_count": "3"
 },
 {
 	"owner": "University of Northern Iowa Research Foundation",
+	"patent_count": "3"
+},
+{
+	"owner": "STMicroelectronics, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Ixia",
+	"patent_count": "3"
+},
+{
+	"owner": "PI Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Clearplay, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Mentor Graphics Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "DRM Technologies, LLC",
+	"patent_count": "3"
+},
+{
+	"owner": "DARTdevices Interop Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Verint Americas Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Perfect Market, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "JP Morgan Chase Bank",
+	"patent_count": "3"
+},
+{
+	"owner": "TableCode Software Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Hughes Electronics Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Schneider Automation",
+	"patent_count": "3"
+},
+{
+	"owner": "Navic Systems, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Thomson Financial Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "xSides Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Gemplus",
+	"patent_count": "3"
+},
+{
+	"owner": "Activcard",
+	"patent_count": "3"
+},
+{
+	"owner": "Time Certain, LLC",
+	"patent_count": "3"
+},
+{
+	"owner": "Capital One Financial Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Zoran Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Learning Tree International",
+	"patent_count": "3"
+},
+{
+	"owner": "Sensoria Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Electronic Data Systems Corporation",
+	"patent_count": "3"
+},
+{
+	"owner": "Applied Materials, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Active Optical Networks, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "MCI, LLC",
+	"patent_count": "3"
+},
+{
+	"owner": "I-LOR, LLC",
+	"patent_count": "3"
+},
+{
+	"owner": "Esmertec AG",
+	"patent_count": "3"
+},
+{
+	"owner": "Hewlett-Packard Development Company, LP.",
+	"patent_count": "3"
+},
+{
+	"owner": "i2 Technologies US, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Initiate Systems, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Siemens Energy & Automation, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "E-Book Systems Pte Ltd",
+	"patent_count": "3"
+},
+{
+	"owner": "Schneider Automation Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "SABA Software, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "CircumNav Networks, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Autodesk Canada Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Cyberscan Technology, Inc.",
+	"patent_count": "3"
+},
+{
+	"owner": "Eu2605Trade",
 	"patent_count": "3"
 },
 {
@@ -1584,6 +2440,10 @@
 	"patent_count": "2"
 },
 {
+	"owner": "Lookout, Inc.",
+	"patent_count": "2"
+},
+{
 	"owner": "Game Play Network, Inc.",
 	"patent_count": "2"
 },
@@ -1600,15 +2460,7 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Certicom Corp.",
-	"patent_count": "2"
-},
-{
 	"owner": "Elwha LLC",
-	"patent_count": "2"
-},
-{
-	"owner": "California Institute of Technology",
 	"patent_count": "2"
 },
 {
@@ -1617,14 +2469,6 @@
 },
 {
 	"owner": "2343127 Ontario Inc.",
-	"patent_count": "2"
-},
-{
-	"owner": "Oblong Industries, Inc.",
-	"patent_count": "2"
-},
-{
-	"owner": "Ricoh Americas Corporation",
 	"patent_count": "2"
 },
 {
@@ -1660,15 +2504,7 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Seriosity, Inc.",
-	"patent_count": "2"
-},
-{
-	"owner": "Activision Publishing, Inc.",
-	"patent_count": "2"
-},
-{
-	"owner": "Nintendo Co., Ltd.",
+	"owner": "U-Systems, Inc.",
 	"patent_count": "2"
 },
 {
@@ -1677,10 +2513,6 @@
 },
 {
 	"owner": "Nemisys Networks, LLC",
-	"patent_count": "2"
-},
-{
-	"owner": "Trimble Navigation Limited",
 	"patent_count": "2"
 },
 {
@@ -1696,15 +2528,7 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Harman Becker Automotive Systems GmbH",
-	"patent_count": "2"
-},
-{
 	"owner": "Onlywire, LLC",
-	"patent_count": "2"
-},
-{
-	"owner": "Wind River Systems, Inc.",
 	"patent_count": "2"
 },
 {
@@ -1720,19 +2544,15 @@
 	"patent_count": "2"
 },
 {
-	"owner": "STMicroelectronics S.R.L.",
-	"patent_count": "2"
-},
-{
 	"owner": "JackBe Corporation",
 	"patent_count": "2"
 },
 {
-	"owner": "Digi International Inc.",
+	"owner": "The United States of America as represented by the Secretary of the Army",
 	"patent_count": "2"
 },
 {
-	"owner": "The United States of America as represented by the Secretary of the Army",
+	"owner": "Board of Regents, The University of Texas System",
 	"patent_count": "2"
 },
 {
@@ -1744,11 +2564,15 @@
 	"patent_count": "2"
 },
 {
-	"owner": "The United States of America as represented by the Secretary of the Navy",
+	"owner": "Wurldtech Security Technologies",
 	"patent_count": "2"
 },
 {
-	"owner": "Wurldtech Security Technologies",
+	"owner": "Lawson Software, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "E*Trade Financial Corporation",
 	"patent_count": "2"
 },
 {
@@ -1776,6 +2600,10 @@
 	"patent_count": "2"
 },
 {
+	"owner": "Johnson Controls Technology Company",
+	"patent_count": "2"
+},
+{
 	"owner": "Intarsia Software LLC",
 	"patent_count": "2"
 },
@@ -1792,19 +2620,11 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Advanced Voice Recognition Systems, Inc.",
-	"patent_count": "2"
-},
-{
 	"owner": "Super Derivatives, Inc.",
 	"patent_count": "2"
 },
 {
 	"owner": "GFI Group, Inc.",
-	"patent_count": "2"
-},
-{
-	"owner": "TopCoder, Inc.",
 	"patent_count": "2"
 },
 {
@@ -1824,10 +2644,6 @@
 	"patent_count": "2"
 },
 {
-	"owner": "FEI Company",
-	"patent_count": "2"
-},
-{
 	"owner": "Anue Systems, Inc.",
 	"patent_count": "2"
 },
@@ -1836,15 +2652,23 @@
 	"patent_count": "2"
 },
 {
+	"owner": "Tokyo Electron Limited",
+	"patent_count": "2"
+},
+{
 	"owner": "San Luis Obispo County Pension Trust Board of Trustees",
 	"patent_count": "2"
 },
 {
-	"owner": "New York University",
+	"owner": "Matador Technologies Corp.",
 	"patent_count": "2"
 },
 {
-	"owner": "Arena Solutions, Inc.",
+	"owner": "Avaya Holdings Limited",
+	"patent_count": "2"
+},
+{
+	"owner": "The Trustees of Stevens Institute of Technology",
 	"patent_count": "2"
 },
 {
@@ -1853,6 +2677,10 @@
 },
 {
 	"owner": "FTI Technology LLC",
+	"patent_count": "2"
+},
+{
+	"owner": "Taiwan Semiconductor Manufacturing Company, Ltd.",
 	"patent_count": "2"
 },
 {
@@ -1884,10 +2712,6 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Visto Corporation",
-	"patent_count": "2"
-},
-{
 	"owner": "Kyocera Corporation",
 	"patent_count": "2"
 },
@@ -1904,10 +2728,6 @@
 	"patent_count": "2"
 },
 {
-	"owner": "British Telecommunications PLC",
-	"patent_count": "2"
-},
-{
 	"owner": "iControl Networks, Inc.",
 	"patent_count": "2"
 },
@@ -1917,6 +2737,10 @@
 },
 {
 	"owner": "Verizon UK Limited",
+	"patent_count": "2"
+},
+{
+	"owner": "SRI International",
 	"patent_count": "2"
 },
 {
@@ -1936,11 +2760,15 @@
 	"patent_count": "2"
 },
 {
-	"owner": "RealNetworks, Inc.",
+	"owner": "ASUSTek Computer Inc.",
 	"patent_count": "2"
 },
 {
-	"owner": "ASUSTek Computer Inc.",
+	"owner": "Visible Measures Corp.",
+	"patent_count": "2"
+},
+{
+	"owner": "Decentrix Inc.",
 	"patent_count": "2"
 },
 {
@@ -1952,11 +2780,11 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Borgia/Cummins, LLC",
+	"owner": "Unicorn Media, Inc.",
 	"patent_count": "2"
 },
 {
-	"owner": "Unicorn Media, Inc.",
+	"owner": "Arbor Networks, Inc.",
 	"patent_count": "2"
 },
 {
@@ -2000,15 +2828,11 @@
 	"patent_count": "2"
 },
 {
-	"owner": "ARM Limited",
-	"patent_count": "2"
-},
-{
 	"owner": "Transcend Products, LLC",
 	"patent_count": "2"
 },
 {
-	"owner": "Charles Schwab & Co., Inc.",
+	"owner": "Digital Fountain, Inc.",
 	"patent_count": "2"
 },
 {
@@ -2028,11 +2852,11 @@
 	"patent_count": "2"
 },
 {
-	"owner": "SAP Aktiengeselleschaft",
+	"owner": "Informatica Corporation",
 	"patent_count": "2"
 },
 {
-	"owner": "Safenet, Inc.",
+	"owner": "SAP Aktiengeselleschaft",
 	"patent_count": "2"
 },
 {
@@ -2049,10 +2873,6 @@
 },
 {
 	"owner": "Overland Storage, Inc.",
-	"patent_count": "2"
-},
-{
-	"owner": "TP Lab",
 	"patent_count": "2"
 },
 {
@@ -2076,14 +2896,6 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Clinical Decision Support, LLC",
-	"patent_count": "2"
-},
-{
-	"owner": "InterDigital Technology Corporation",
-	"patent_count": "2"
-},
-{
 	"owner": "Factory Physics, Inc.",
 	"patent_count": "2"
 },
@@ -2100,11 +2912,15 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Trek 2000 International Ltd.",
+	"owner": "Kaspersky Lab, ZAO",
 	"patent_count": "2"
 },
 {
 	"owner": "Yodlee.com, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Pitney Bowes Inc.",
 	"patent_count": "2"
 },
 {
@@ -2117,10 +2933,6 @@
 },
 {
 	"owner": "Spansion LLC",
-	"patent_count": "2"
-},
-{
-	"owner": "Hewlett-Packard Company",
 	"patent_count": "2"
 },
 {
@@ -2144,10 +2956,6 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Media Captioning Services",
-	"patent_count": "2"
-},
-{
 	"owner": "Astute Technology, LLC",
 	"patent_count": "2"
 },
@@ -2168,7 +2976,11 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Gemalto SA",
+	"owner": "InfoPrint Solutions Company LLC",
+	"patent_count": "2"
+},
+{
+	"owner": "Level 3 Communications, LLC",
 	"patent_count": "2"
 },
 {
@@ -2180,6 +2992,14 @@
 	"patent_count": "2"
 },
 {
+	"owner": "Real-Time Innovations, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Eruces, Inc.",
+	"patent_count": "2"
+},
+{
 	"owner": "Decentrix, Inc.",
 	"patent_count": "2"
 },
@@ -2188,27 +3008,15 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Case Western Reserve University",
-	"patent_count": "2"
-},
-{
-	"owner": "Computer Sciences Corporation",
-	"patent_count": "2"
-},
-{
 	"owner": "Scale Semiconductor FLG, L.L.C.",
 	"patent_count": "2"
 },
 {
-	"owner": "Crossroads Systems, Inc.",
+	"owner": "Schlumberger Technology Corp.",
 	"patent_count": "2"
 },
 {
-	"owner": "Robert Bosch GmbH",
-	"patent_count": "2"
-},
-{
-	"owner": "Seagate Technology LLC",
+	"owner": "Standard Microsystems Corporation",
 	"patent_count": "2"
 },
 {
@@ -2216,19 +3024,7 @@
 	"patent_count": "2"
 },
 {
-	"owner": "eCharge Corporation",
-	"patent_count": "2"
-},
-{
-	"owner": "Boundary Solutions, Inc.",
-	"patent_count": "2"
-},
-{
-	"owner": "Populex Corp.",
-	"patent_count": "2"
-},
-{
-	"owner": "Fotiva, Inc.",
+	"owner": "Tekelec",
 	"patent_count": "2"
 },
 {
@@ -2236,15 +3032,19 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Mircosoft Corporation",
+	"owner": "Versata Development Group, Inc.",
 	"patent_count": "2"
 },
 {
-	"owner": "Verdasys, Inc.",
+	"owner": "Paid, Inc.",
 	"patent_count": "2"
 },
 {
-	"owner": "GameLogic, Inc.",
+	"owner": "Convergent Networks, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Ecollege.com",
 	"patent_count": "2"
 },
 {
@@ -2264,15 +3064,15 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Gemstone Systems, Inc.",
-	"patent_count": "2"
-},
-{
-	"owner": "Rose Blush Software LLC",
+	"owner": "Ericsson AB",
 	"patent_count": "2"
 },
 {
 	"owner": "TeraScale Supercomputing Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "IndraWeb.com, Inc.",
 	"patent_count": "2"
 },
 {
@@ -2284,7 +3084,7 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Sentillion, Inc.",
+	"owner": "ACT Teleconferencing, Inc.",
 	"patent_count": "2"
 },
 {
@@ -2292,7 +3092,15 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Hitwise Pty. Ltd.",
+	"owner": "OpenPages",
+	"patent_count": "2"
+},
+{
+	"owner": "The University of North Carolina",
+	"patent_count": "2"
+},
+{
+	"owner": "Liquid Machines, Inc.",
 	"patent_count": "2"
 },
 {
@@ -2312,7 +3120,7 @@
 	"patent_count": "2"
 },
 {
-	"owner": "DataCore Software Corporation",
+	"owner": "FotoMedia Technologies, LLC",
 	"patent_count": "2"
 },
 {
@@ -2320,7 +3128,15 @@
 	"patent_count": "2"
 },
 {
+	"owner": "Rage Frameworks, Inc.",
+	"patent_count": "2"
+},
+{
 	"owner": "Sonics, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Cellomics, Inc.",
 	"patent_count": "2"
 },
 {
@@ -2328,7 +3144,19 @@
 	"patent_count": "2"
 },
 {
+	"owner": "Cricket Communications, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Marvell International Technology Ltd.",
+	"patent_count": "2"
+},
+{
 	"owner": "SRS Labs, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Wells Fargo Bank, N.A.",
 	"patent_count": "2"
 },
 {
@@ -2340,11 +3168,15 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Corel Corporation",
+	"owner": "Citibank, N.A.",
 	"patent_count": "2"
 },
 {
-	"owner": "Citibank, N.A.",
+	"owner": "Buffalo International, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "August Technology Corp.",
 	"patent_count": "2"
 },
 {
@@ -2356,15 +3188,15 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Integrien Corporation",
-	"patent_count": "2"
-},
-{
 	"owner": "Jericho Systems Corporation",
 	"patent_count": "2"
 },
 {
-	"owner": "Tollgrade Communications, Inc.",
+	"owner": "Entrust, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Hewlett-Packard Development Company",
 	"patent_count": "2"
 },
 {
@@ -2372,11 +3204,15 @@
 	"patent_count": "2"
 },
 {
+	"owner": "Demand Media, Inc.",
+	"patent_count": "2"
+},
+{
 	"owner": "Parametric Technology Corporation",
 	"patent_count": "2"
 },
 {
-	"owner": "Openwave Systems Inc.",
+	"owner": "Rocket Software, Inc.",
 	"patent_count": "2"
 },
 {
@@ -2388,7 +3224,23 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Autocell Laboratories, Inc.",
+	"owner": "Ricoh Company Limited",
+	"patent_count": "2"
+},
+{
+	"owner": "Wavecom",
+	"patent_count": "2"
+},
+{
+	"owner": "AFX Technology Group International, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "AWS Convergence Technologies, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Searete, LLC",
 	"patent_count": "2"
 },
 {
@@ -2400,15 +3252,23 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Comtech Mobile Datacom Corporation",
-	"patent_count": "2"
-},
-{
 	"owner": "Custom Speech USA, Inc.",
 	"patent_count": "2"
 },
 {
-	"owner": "Kayak Software Corporation",
+	"owner": "Health Language, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Azul Systems, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Intellisync Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Adobe Systems, Incorporated",
 	"patent_count": "2"
 },
 {
@@ -2416,11 +3276,35 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Toshiba Tec Kabushiki Kaisha",
+	"owner": "Glenayre Electronics, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Friendster, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Sierra Nevada Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Nokia Siemens Networks Oy",
+	"patent_count": "2"
+},
+{
+	"owner": "DiVitas Networks, Inc.",
 	"patent_count": "2"
 },
 {
 	"owner": "PME IP Australia Pty Ltd",
+	"patent_count": "2"
+},
+{
+	"owner": "University of Utah Research Foundation",
+	"patent_count": "2"
+},
+{
+	"owner": "Intermatic Incorporated",
 	"patent_count": "2"
 },
 {
@@ -2432,7 +3316,19 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Aptana, Inc.",
+	"owner": "Sonic Solutions",
+	"patent_count": "2"
+},
+{
+	"owner": "Carnegie Mellon University",
+	"patent_count": "2"
+},
+{
+	"owner": "Salesforce.com Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "InterSense, Inc.",
 	"patent_count": "2"
 },
 {
@@ -2444,19 +3340,55 @@
 	"patent_count": "2"
 },
 {
-	"owner": "Softricity, Inc.",
+	"owner": "IdenTrust, Inc.",
 	"patent_count": "2"
 },
 {
-	"owner": "BEA Systems Inc.",
+	"owner": "Core Mobility, Inc.",
 	"patent_count": "2"
 },
 {
-	"owner": "SCA Technica, Inc.",
+	"owner": "Fiserv Incorporated",
 	"patent_count": "2"
 },
 {
-	"owner": "First Data Corporation",
+	"owner": "Lenel Systems International, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Software Research, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Zeugma Systems Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Kabushiki Kaisha Square Enix",
+	"patent_count": "2"
+},
+{
+	"owner": "iPass Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "ITT Manufacturing Enterprises, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Alcoa Technical Center",
+	"patent_count": "2"
+},
+{
+	"owner": "Hughes Network Systems, LLC",
+	"patent_count": "2"
+},
+{
+	"owner": "University of Washington",
+	"patent_count": "2"
+},
+{
+	"owner": "HRL Laboratories, LLC",
 	"patent_count": "2"
 },
 {
@@ -2464,19 +3396,39 @@
 	"patent_count": "2"
 },
 {
+	"owner": "Basis Technology Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Industrial Defender, Inc.",
+	"patent_count": "2"
+},
+{
 	"owner": "ActivIdentity, Inc.",
 	"patent_count": "2"
 },
 {
-	"owner": "iRise",
+	"owner": "Hyperthink LLC",
 	"patent_count": "2"
 },
 {
-	"owner": "Access Systems Americas, Inc.",
+	"owner": "Loma Linda University Medical Center",
 	"patent_count": "2"
 },
 {
-	"owner": "Accenture LLP",
+	"owner": "Dell Products, L.P.",
+	"patent_count": "2"
+},
+{
+	"owner": "The Hong Kong University of Science and Technology",
+	"patent_count": "2"
+},
+{
+	"owner": "Irdeto Access B.V.",
+	"patent_count": "2"
+},
+{
+	"owner": "DDR Holdings, LLC",
 	"patent_count": "2"
 },
 {
@@ -2484,11 +3436,455 @@
 	"patent_count": "2"
 },
 {
-	"owner": "QNX Software Systems GmbH & Co. KG",
+	"owner": "Eveready Battery Company, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Actuate Corporation",
 	"patent_count": "2"
 },
 {
 	"owner": "SMS.ac, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Knowledge Dynamics, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Alcatel-Lucent",
+	"patent_count": "2"
+},
+{
+	"owner": "Justsystems Canada Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "The Cobalt Group, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "DW Holdings, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Sesma Systems, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Bones In Motion, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Ochopee Big Cypress LLC",
+	"patent_count": "2"
+},
+{
+	"owner": "AT & T Corp.",
+	"patent_count": "2"
+},
+{
+	"owner": "Autonomy Corporation Ltd.",
+	"patent_count": "2"
+},
+{
+	"owner": "Cisco Technology",
+	"patent_count": "2"
+},
+{
+	"owner": "Microstrategy, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Path Reliability, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Clearplay Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Stratavia Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "FX Alliance, LLC",
+	"patent_count": "2"
+},
+{
+	"owner": "Xambala, inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "BAE Systems Information Technology Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "BAE Systems Information and Electronic Systems Integration Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Citicorp Development Center, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Ereinsure.Com, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "NetLogic Microsystems, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Verizon Corporate Services Group Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Attenex Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "The Debt Exchange, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Tripwire, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Convergys CMG Utah, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Cox Communications, Inc",
+	"patent_count": "2"
+},
+{
+	"owner": "Lenovo Singapore Pte. Ltd",
+	"patent_count": "2"
+},
+{
+	"owner": "Zebra Imaging, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Cenzic, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Mercury Computer Systems, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Cerulean Studios, LLC",
+	"patent_count": "2"
+},
+{
+	"owner": "Data Quality Solutions, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "BroadOn Communications Corp.",
+	"patent_count": "2"
+},
+{
+	"owner": "AT&T BLS Intellectual Property, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Sierra Design Group",
+	"patent_count": "2"
+},
+{
+	"owner": "Sonic Solutions, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Teneros Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Power Measurement Ltd.",
+	"patent_count": "2"
+},
+{
+	"owner": "PalmSource, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Vignette Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Metabyte Networks, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Shortel, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Attachmate Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "LSI Logic Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Infoglide Software Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "General Motors Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Overture Services, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "University of Southern California",
+	"patent_count": "2"
+},
+{
+	"owner": "DARTdevices Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Cirrus Logic, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Guardium, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Autodesk Canada Co.",
+	"patent_count": "2"
+},
+{
+	"owner": "Adaptive Avenue Associates, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Tellabs Bedford, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Bocada, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Inmarsat Global Limited",
+	"patent_count": "2"
+},
+{
+	"owner": "Recognia Incorporated",
+	"patent_count": "2"
+},
+{
+	"owner": "Kryptiq Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Wolters Kluwer Financial Services, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Intexact Technologies Limited",
+	"patent_count": "2"
+},
+{
+	"owner": "Sky Technologies, LLC",
+	"patent_count": "2"
+},
+{
+	"owner": "Velcero Broadband Applications, LLC",
+	"patent_count": "2"
+},
+{
+	"owner": "A4Vision",
+	"patent_count": "2"
+},
+{
+	"owner": "Softwired AG",
+	"patent_count": "2"
+},
+{
+	"owner": "Internet Security Systems, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Claria Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Valaquenta Intellectual Properties Limited",
+	"patent_count": "2"
+},
+{
+	"owner": "WebTV Networks, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Adaptik Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "National Instruments Corp.",
+	"patent_count": "2"
+},
+{
+	"owner": "TestQuest, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Ageia Technologies, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Block Financial Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Hewlett-Packard Development, L.P.",
+	"patent_count": "2"
+},
+{
+	"owner": "Digital Sandbox, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Memetrics Holdings Pty Limited",
+	"patent_count": "2"
+},
+{
+	"owner": "TeleCommunication Systems Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Proficiency Solutions Ltd.",
+	"patent_count": "2"
+},
+{
+	"owner": "Everbank",
+	"patent_count": "2"
+},
+{
+	"owner": "Toshiba Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Battelle Memorial Institute",
+	"patent_count": "2"
+},
+{
+	"owner": "Identrus, LLC",
+	"patent_count": "2"
+},
+{
+	"owner": "Magic Earth, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Storage Technology Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Lambda OpticalSystems Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "Cypress Semiconductor Corp.",
+	"patent_count": "2"
+},
+{
+	"owner": "Netpulse, LLC",
+	"patent_count": "2"
+},
+{
+	"owner": "American Board of Family Practice, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Rockwell Collins",
+	"patent_count": "2"
+},
+{
+	"owner": "LANDesk Software Limited",
+	"patent_count": "2"
+},
+{
+	"owner": "Picsel Technologies Limited",
+	"patent_count": "2"
+},
+{
+	"owner": "Mindspeed Technologies, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Infogation Corporation",
+	"patent_count": "2"
+},
+{
+	"owner": "SkyStream Networks Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "DP Technology Corp.",
+	"patent_count": "2"
+},
+{
+	"owner": "ESS Technology, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "ShieldIP, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Nokia Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "University of Kentucky Research Foundation",
+	"patent_count": "2"
+},
+{
+	"owner": "AEP Networks, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Extensis, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Italtel S.p.A.",
+	"patent_count": "2"
+},
+{
+	"owner": "Finjan Software, Ltd",
+	"patent_count": "2"
+},
+{
+	"owner": "Austin Logistics Incorporated",
+	"patent_count": "2"
+},
+{
+	"owner": "Networks Associates Technology, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Troika Networks, Inc.",
+	"patent_count": "2"
+},
+{
+	"owner": "Verizon Services Corp.",
+	"patent_count": "2"
+},
+{
+	"owner": "PhenoGenomics Corporation",
 	"patent_count": "2"
 },
 {
@@ -2720,10 +4116,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "U-Systems, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Geonomics Global Games Limited",
 	"patent_count": "1"
 },
@@ -2884,10 +4276,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "National University of Singapore",
-	"patent_count": "1"
-},
-{
 	"owner": "Mobile Iron, Inc.",
 	"patent_count": "1"
 },
@@ -2972,10 +4360,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Sony Computer Entertainment America Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Futurewei Technologies, Inc.",
 	"patent_count": "1"
 },
@@ -2985,10 +4369,6 @@
 },
 {
 	"owner": "Kohorts IT Services, LLC",
-	"patent_count": "1"
-},
-{
-	"owner": "Board of Regents, The University of Texas System",
 	"patent_count": "1"
 },
 {
@@ -3041,14 +4421,6 @@
 },
 {
 	"owner": "Nebraska Book Company, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Lawson Software, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "E*Trade Financial Corporation",
 	"patent_count": "1"
 },
 {
@@ -3165,10 +4537,6 @@
 },
 {
 	"owner": "Xtify, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Johnson Controls Technology Company",
 	"patent_count": "1"
 },
 {
@@ -3452,10 +4820,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Nice Systems Ltd.",
-	"patent_count": "1"
-},
-{
 	"owner": "NSGDatacom, Inc.",
 	"patent_count": "1"
 },
@@ -3476,10 +4840,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Avaya Technology Corp.",
-	"patent_count": "1"
-},
-{
 	"owner": "Wisterium Development LLC",
 	"patent_count": "1"
 },
@@ -3492,15 +4852,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Industrial Technology Research Institute",
-	"patent_count": "1"
-},
-{
 	"owner": "Ocls Applications, LLC",
-	"patent_count": "1"
-},
-{
-	"owner": "Tokyo Electron Limited",
 	"patent_count": "1"
 },
 {
@@ -3516,23 +4868,11 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Matador Technologies Corp.",
-	"patent_count": "1"
-},
-{
 	"owner": "Hewlett-Packard Development Company., L.P.",
 	"patent_count": "1"
 },
 {
 	"owner": "AT&T Intellectual Property, L.P.",
-	"patent_count": "1"
-},
-{
-	"owner": "Avaya Holdings Limited",
-	"patent_count": "1"
-},
-{
-	"owner": "The Trustees of Stevens Institute of Technology",
 	"patent_count": "1"
 },
 {
@@ -3549,10 +4889,6 @@
 },
 {
 	"owner": "Knapp Investment Company Limited",
-	"patent_count": "1"
-},
-{
-	"owner": "Taiwan Semiconductor Manufacturing Company, Ltd.",
 	"patent_count": "1"
 },
 {
@@ -3624,10 +4960,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Ellie Mae, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Microunity Systems Engineering, Inc",
 	"patent_count": "1"
 },
@@ -3676,19 +5008,11 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Diebold Self-Service Systems, division of Diebold, Incorporated",
-	"patent_count": "1"
-},
-{
 	"owner": "ABB Research Ltd.",
 	"patent_count": "1"
 },
 {
 	"owner": "QUALCOMM, Incorporated",
-	"patent_count": "1"
-},
-{
-	"owner": "SRI International",
 	"patent_count": "1"
 },
 {
@@ -3772,15 +5096,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Visible Measures Corp.",
-	"patent_count": "1"
-},
-{
 	"owner": "Hola Networks, Ltd.",
-	"patent_count": "1"
-},
-{
-	"owner": "Decentrix Inc.",
 	"patent_count": "1"
 },
 {
@@ -3845,10 +5161,6 @@
 },
 {
 	"owner": "Sony Europe Limited",
-	"patent_count": "1"
-},
-{
-	"owner": "Arbor Networks, Inc.",
 	"patent_count": "1"
 },
 {
@@ -3928,10 +5240,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "MCI Communications Corporation",
-	"patent_count": "1"
-},
-{
 	"owner": "Senseg Oy",
 	"patent_count": "1"
 },
@@ -4004,10 +5312,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Digital Fountain, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "SONY DADC Austria AG",
 	"patent_count": "1"
 },
@@ -4064,10 +5368,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Informatica Corporation",
-	"patent_count": "1"
-},
-{
 	"owner": "Digital Lifeboat, Inc.",
 	"patent_count": "1"
 },
@@ -4113,10 +5413,6 @@
 },
 {
 	"owner": "Delphi Technologies, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "SAS Institute Inc.",
 	"patent_count": "1"
 },
 {
@@ -4200,10 +5496,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Kaspersky Lab, ZAO",
-	"patent_count": "1"
-},
-{
 	"owner": "Netflix, Inc.",
 	"patent_count": "1"
 },
@@ -4225,14 +5517,6 @@
 },
 {
 	"owner": "Pure Verticals, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "e2interactive, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Pitney Bowes Inc.",
 	"patent_count": "1"
 },
 {
@@ -4337,10 +5621,6 @@
 },
 {
 	"owner": "Net App. Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Qwest Communications International Inc.",
 	"patent_count": "1"
 },
 {
@@ -4560,10 +5840,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Itron, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Local Corporation",
 	"patent_count": "1"
 },
@@ -4581,10 +5857,6 @@
 },
 {
 	"owner": "Lumi Technologies, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "InfoPrint Solutions Company LLC",
 	"patent_count": "1"
 },
 {
@@ -4700,10 +5972,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Level 3 Communications, LLC",
-	"patent_count": "1"
-},
-{
 	"owner": "Silicon Storage Technology, Inc.",
 	"patent_count": "1"
 },
@@ -4760,10 +6028,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Real-Time Innovations, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Mecanto Ltd.",
 	"patent_count": "1"
 },
@@ -4773,10 +6037,6 @@
 },
 {
 	"owner": "Micorsoft Corporation",
-	"patent_count": "1"
-},
-{
-	"owner": "Eruces, Inc.",
 	"patent_count": "1"
 },
 {
@@ -4801,10 +6061,6 @@
 },
 {
 	"owner": "Nuance Communications Austria GmbH",
-	"patent_count": "1"
-},
-{
-	"owner": "Hyperion Solutions Corporation",
 	"patent_count": "1"
 },
 {
@@ -4833,10 +6089,6 @@
 },
 {
 	"owner": "IP Street Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Schlumberger Technology Corp.",
 	"patent_count": "1"
 },
 {
@@ -4912,14 +6164,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Bally Gaming International, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Standard Microsystems Corporation",
-	"patent_count": "1"
-},
-{
 	"owner": "Munro & Associates, Inc.",
 	"patent_count": "1"
 },
@@ -4952,10 +6196,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "TransNexus, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "PMC-Sierra, Inc.",
 	"patent_count": "1"
 },
@@ -4969,10 +6209,6 @@
 },
 {
 	"owner": "T5 Labs Ltd.",
-	"patent_count": "1"
-},
-{
-	"owner": "Tekelec",
 	"patent_count": "1"
 },
 {
@@ -4996,14 +6232,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Netezza Corporation",
-	"patent_count": "1"
-},
-{
-	"owner": "Qwest Communications International, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Leader Technologies, Inc.",
 	"patent_count": "1"
 },
@@ -5013,14 +6241,6 @@
 },
 {
 	"owner": "Trados, Incorporated",
-	"patent_count": "1"
-},
-{
-	"owner": "Versata Development Group, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Oracle Corporation",
 	"patent_count": "1"
 },
 {
@@ -5041,10 +6261,6 @@
 },
 {
 	"owner": "Spring Design Co. Ltd.",
-	"patent_count": "1"
-},
-{
-	"owner": "Paid, Inc.",
 	"patent_count": "1"
 },
 {
@@ -5080,10 +6296,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Convergent Networks, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Altos Design Automation, Inc.",
 	"patent_count": "1"
 },
@@ -5093,10 +6305,6 @@
 },
 {
 	"owner": "Mandiant",
-	"patent_count": "1"
-},
-{
-	"owner": "Ecollege.com",
 	"patent_count": "1"
 },
 {
@@ -5133,10 +6341,6 @@
 },
 {
 	"owner": "Neon Systems, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Hewlett-Packard Development Company L.P.",
 	"patent_count": "1"
 },
 {
@@ -5188,10 +6392,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Ericsson AB",
-	"patent_count": "1"
-},
-{
 	"owner": "Daylife, Inc.",
 	"patent_count": "1"
 },
@@ -5228,10 +6428,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "IndraWeb.com, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Senshin Capital, LLC",
 	"patent_count": "1"
 },
@@ -5264,19 +6460,11 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Coverity, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Broadcom Israel Research Ltd.",
 	"patent_count": "1"
 },
 {
 	"owner": "Vivotech Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "ACT Teleconferencing, Inc.",
 	"patent_count": "1"
 },
 {
@@ -5297,10 +6485,6 @@
 },
 {
 	"owner": "Tervela, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "OpenPages",
 	"patent_count": "1"
 },
 {
@@ -5348,10 +6532,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "The University of North Carolina",
-	"patent_count": "1"
-},
-{
 	"owner": "Debix One, Inc.",
 	"patent_count": "1"
 },
@@ -5377,14 +6557,6 @@
 },
 {
 	"owner": "Canal + Technologies Societe Anonyme",
-	"patent_count": "1"
-},
-{
-	"owner": "Liquid Machines, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "SensABLE Technologies, Inc.",
 	"patent_count": "1"
 },
 {
@@ -5424,10 +6596,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Kimberly-Clark Worldwide, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Schukhaus Group GmbH, LLC",
 	"patent_count": "1"
 },
@@ -5457,10 +6625,6 @@
 },
 {
 	"owner": "Thales",
-	"patent_count": "1"
-},
-{
-	"owner": "FotoMedia Technologies, LLC",
 	"patent_count": "1"
 },
 {
@@ -5508,10 +6672,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Rage Frameworks, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Arcsoft, Inc.",
 	"patent_count": "1"
 },
@@ -5533,10 +6693,6 @@
 },
 {
 	"owner": "Nexify, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Alacritech, Inc.",
 	"patent_count": "1"
 },
 {
@@ -5572,15 +6728,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Cellomics, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Protecode Incorporated",
-	"patent_count": "1"
-},
-{
-	"owner": "Cricket Communications, Inc.",
 	"patent_count": "1"
 },
 {
@@ -5600,10 +6748,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Marvell International Technology Ltd.",
-	"patent_count": "1"
-},
-{
 	"owner": "Patient Keeper, Inc",
 	"patent_count": "1"
 },
@@ -5617,10 +6761,6 @@
 },
 {
 	"owner": "Codestreet LLC",
-	"patent_count": "1"
-},
-{
-	"owner": "Wells Fargo Bank, N.A.",
 	"patent_count": "1"
 },
 {
@@ -5704,14 +6844,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Buffalo International, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "August Technology Corp.",
-	"patent_count": "1"
-},
-{
 	"owner": "Contactless Data, Inc.",
 	"patent_count": "1"
 },
@@ -5784,19 +6916,11 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Entrust, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "ParkMe LLC",
 	"patent_count": "1"
 },
 {
 	"owner": "Joikusoft Ltd.",
-	"patent_count": "1"
-},
-{
-	"owner": "SunGard Energy Systems Inc.",
 	"patent_count": "1"
 },
 {
@@ -5872,23 +6996,11 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Hewlett-Packard Development Company",
-	"patent_count": "1"
-},
-{
 	"owner": "Carbon Design Systems, Inc.",
 	"patent_count": "1"
 },
 {
 	"owner": "Plat-Ease Corporation",
-	"patent_count": "1"
-},
-{
-	"owner": "Demand Media, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "AOL LLC",
 	"patent_count": "1"
 },
 {
@@ -5905,14 +7017,6 @@
 },
 {
 	"owner": "Global Tel*Link Corporation",
-	"patent_count": "1"
-},
-{
-	"owner": "Iron Mountain Incorporated",
-	"patent_count": "1"
-},
-{
-	"owner": "Rocket Software, Inc.",
 	"patent_count": "1"
 },
 {
@@ -5948,10 +7052,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Ricoh Company Limited",
-	"patent_count": "1"
-},
-{
 	"owner": "Swiss Reinsurance Company",
 	"patent_count": "1"
 },
@@ -5972,31 +7072,11 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Eastman Kodak Company",
-	"patent_count": "1"
-},
-{
-	"owner": "Wavecom",
-	"patent_count": "1"
-},
-{
-	"owner": "AFX Technology Group International, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Handysoft Global Corporation",
 	"patent_count": "1"
 },
 {
 	"owner": "LogRhythm, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "AWS Convergence Technologies, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Searete, LLC",
 	"patent_count": "1"
 },
 {
@@ -6036,10 +7116,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Health Language, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Marchex, Inc.",
 	"patent_count": "1"
 },
@@ -6048,23 +7124,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Photronics, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "SAP (AG)",
-	"patent_count": "1"
-},
-{
-	"owner": "Azul Systems, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Trust Digital, LLC",
-	"patent_count": "1"
-},
-{
-	"owner": "Searete LLC",
 	"patent_count": "1"
 },
 {
@@ -6076,19 +7136,11 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Intellisync Corporation",
-	"patent_count": "1"
-},
-{
 	"owner": "Tizor Systems, Inc.",
 	"patent_count": "1"
 },
 {
 	"owner": "Practical Engineering Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Adobe Systems, Incorporated",
 	"patent_count": "1"
 },
 {
@@ -6100,15 +7152,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Glenayre Electronics, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Qwikker, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Friendster, Inc.",
 	"patent_count": "1"
 },
 {
@@ -6152,19 +7196,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Sierra Nevada Corporation",
-	"patent_count": "1"
-},
-{
 	"owner": "Sharp Kabushiki Kaisha",
-	"patent_count": "1"
-},
-{
-	"owner": "Nokia Siemens Networks Oy",
-	"patent_count": "1"
-},
-{
-	"owner": "DiVitas Networks, Inc.",
 	"patent_count": "1"
 },
 {
@@ -6176,15 +7208,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Scientific-Atlanta, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Curtiss-Wright Controls, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "University of Utah Research Foundation",
 	"patent_count": "1"
 },
 {
@@ -6200,10 +7224,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Intermatic Incorporated",
-	"patent_count": "1"
-},
-{
 	"owner": "Panasonic Electric Works Co., Ltd.",
 	"patent_count": "1"
 },
@@ -6212,15 +7232,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "RTO Software, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Pleora Technologies Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Landmark Graphics Corporation, a Halliburton Company",
 	"patent_count": "1"
 },
 {
@@ -6280,15 +7292,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Sonic Solutions",
-	"patent_count": "1"
-},
-{
 	"owner": "United States Postal Services",
-	"patent_count": "1"
-},
-{
-	"owner": "Carnegie Mellon University",
 	"patent_count": "1"
 },
 {
@@ -6340,23 +7344,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Groove Networks, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Salesforce.com Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Modelware, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "InterSense, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "MKS Instruments, Inc.",
 	"patent_count": "1"
 },
 {
@@ -6412,10 +7400,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "IdenTrust, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Augusta Systems, Inc.",
 	"patent_count": "1"
 },
@@ -6425,14 +7409,6 @@
 },
 {
 	"owner": "Ramal Acquisition Corp.",
-	"patent_count": "1"
-},
-{
-	"owner": "Convergys CMG Utah",
-	"patent_count": "1"
-},
-{
-	"owner": "Core Mobility, Inc.",
 	"patent_count": "1"
 },
 {
@@ -6460,23 +7436,11 @@
 	"patent_count": "1"
 },
 {
-	"owner": "OP40, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Fiserv Incorporated",
-	"patent_count": "1"
-},
-{
 	"owner": "Intertust Technologies Corp.",
 	"patent_count": "1"
 },
 {
 	"owner": "Notable Solutions, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Lenel Systems International, Inc.",
 	"patent_count": "1"
 },
 {
@@ -6516,10 +7480,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Software Research, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "The Invention Science Fund 1, Inc",
 	"patent_count": "1"
 },
@@ -6532,23 +7492,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "XimpleWare, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Zeugma Systems Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Kabushiki Kaisha Square Enix",
-	"patent_count": "1"
-},
-{
 	"owner": "Nominum, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "iPass Inc.",
 	"patent_count": "1"
 },
 {
@@ -6560,10 +7504,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Digital Data Research Company",
-	"patent_count": "1"
-},
-{
 	"owner": "Interwise Ltd.",
 	"patent_count": "1"
 },
@@ -6572,19 +7512,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "ITT Manufacturing Enterprises, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "VerticalOne Corporation",
-	"patent_count": "1"
-},
-{
-	"owner": "Motive, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Alcoa Technical Center",
 	"patent_count": "1"
 },
 {
@@ -6612,10 +7540,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Hughes Network Systems, LLC",
-	"patent_count": "1"
-},
-{
 	"owner": "TrueContext Corporation",
 	"patent_count": "1"
 },
@@ -6628,31 +7552,11 @@
 	"patent_count": "1"
 },
 {
-	"owner": "University of Washington",
-	"patent_count": "1"
-},
-{
-	"owner": "HRL Laboratories, LLC",
-	"patent_count": "1"
-},
-{
 	"owner": "Cisco Technlogy, Inc.",
 	"patent_count": "1"
 },
 {
 	"owner": "Amway Corp.",
-	"patent_count": "1"
-},
-{
-	"owner": "Basis Technology Corporation",
-	"patent_count": "1"
-},
-{
-	"owner": "Industrial Defender, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Diebold, Incorporated",
 	"patent_count": "1"
 },
 {
@@ -6676,10 +7580,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Alcatel",
-	"patent_count": "1"
-},
-{
 	"owner": "Vignette Software, LLC",
 	"patent_count": "1"
 },
@@ -6688,19 +7588,11 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Deutsche Telekom AG",
-	"patent_count": "1"
-},
-{
 	"owner": "Acme Packet, Inc.",
 	"patent_count": "1"
 },
 {
 	"owner": "Tor Anumana, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Hyperthink LLC",
 	"patent_count": "1"
 },
 {
@@ -6728,10 +7620,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Loma Linda University Medical Center",
-	"patent_count": "1"
-},
-{
 	"owner": "Creatier Interactive, LLC",
 	"patent_count": "1"
 },
@@ -6744,15 +7632,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Dell Products, L.P.",
-	"patent_count": "1"
-},
-{
 	"owner": "Likewise Software, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "The Hong Kong University of Science and Technology",
 	"patent_count": "1"
 },
 {
@@ -6764,10 +7644,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Northrop Grumman Corporation",
-	"patent_count": "1"
-},
-{
 	"owner": "The Glidden Company",
 	"patent_count": "1"
 },
@@ -6776,15 +7652,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Irdeto Access B.V.",
-	"patent_count": "1"
-},
-{
 	"owner": "Scalent Systems, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "The Regents of the University of California",
 	"patent_count": "1"
 },
 {
@@ -6793,10 +7661,6 @@
 },
 {
 	"owner": "Temporal Dynamics, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "DDR Holdings, LLC",
 	"patent_count": "1"
 },
 {
@@ -6820,15 +7684,7 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Eveready Battery Company, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Mediatek, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Actuate Corporation",
 	"patent_count": "1"
 },
 {
@@ -6844,19 +7700,11 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Telcordia Technologies, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "Brightpoint, Inc.",
 	"patent_count": "1"
 },
 {
 	"owner": "Group Logic, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Knowledge Dynamics, Inc.",
 	"patent_count": "1"
 },
 {
@@ -6869,14 +7717,6 @@
 },
 {
 	"owner": "Environmental Analytics, Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Alcatel-Lucent",
-	"patent_count": "1"
-},
-{
-	"owner": "STMicroelectronics, Inc.",
 	"patent_count": "1"
 },
 {
@@ -6912,10 +7752,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "Thomson Licensing S.A.",
-	"patent_count": "1"
-},
-{
 	"owner": "Cymer, Inc.",
 	"patent_count": "1"
 },
@@ -6933,14 +7769,6 @@
 },
 {
 	"owner": "IDX Investment Corporation",
-	"patent_count": "1"
-},
-{
-	"owner": "Justsystems Canada Inc.",
-	"patent_count": "1"
-},
-{
-	"owner": "Ixia",
 	"patent_count": "1"
 },
 {
@@ -6988,10 +7816,6 @@
 	"patent_count": "1"
 },
 {
-	"owner": "The Cobalt Group, Inc.",
-	"patent_count": "1"
-},
-{
 	"owner": "PEER Intellectual Property, Inc.",
 	"patent_count": "1"
 },
@@ -7000,10 +7824,2886 @@
 	"patent_count": "1"
 },
 {
-	"owner": "DW Holdings, Inc.",
+	"owner": "Inet Spch Property Hldg., Limited Liability Company",
 	"patent_count": "1"
 },
 {
-	"owner": "Inet Spch Property Hldg., Limited Liability Company",
+	"owner": "Tacmi Co., Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "ARC International, PLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Microsoft Corporation, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Symphony Services Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Mainsoft R&D Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Pasternak Solutions, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Radio IP Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "BBN Technologies Corp",
+	"patent_count": "1"
+},
+{
+	"owner": "BAE Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "GigaTrust",
+	"patent_count": "1"
+},
+{
+	"owner": "P.C. Krause & Associates, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sony Creative Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Radioscape Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Siemens Communications",
+	"patent_count": "1"
+},
+{
+	"owner": "Xatra Fund MX, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Mainsoft R&D Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "Verizon Laboratories, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Marketaxess Holdings Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Metaweb Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Renaissance Learning, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Tevaclata US, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Bull SAS",
+	"patent_count": "1"
+},
+{
+	"owner": "Secure64 Software Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Secure 64 Software Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Angoss Software Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Guardian Data Storage LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Swift Creek Systems, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Triton IP, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "WhiteFence, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Arrayworks Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Commuca, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "OpCoast LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Evri Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "SanDisk IL, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Yamaha Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "William Marsh Rice University",
+	"patent_count": "1"
+},
+{
+	"owner": "Porticus, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "VI Technology, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Spoken Translation Ind.",
+	"patent_count": "1"
+},
+{
+	"owner": "Softroute Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "HIP Consult Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Lightsurf Technology, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Lawrence Livermore National Security, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Varonis Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Business Objects Software Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "E-Book Systems Pte Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Ocimum Biosolutions, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Hitachi Data Systems Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "DG FastChannel, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Novariant, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Alcatel-Lucent Canada Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "SAP",
+	"patent_count": "1"
+},
+{
+	"owner": "Micriosoft Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Lenovo (Singapore) Pte Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "6100198 Canada Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "GlynnTech, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sony Electroinics, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Telmap Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "General Instrumental Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Speechworks International, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "CVON Innovations Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "The John Hopkins University",
+	"patent_count": "1"
+},
+{
+	"owner": "Keeboo SARL",
+	"patent_count": "1"
+},
+{
+	"owner": "Symbol Technologies Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "SAP, Aktiengesellschaft",
+	"patent_count": "1"
+},
+{
+	"owner": "DST Innovis, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Public Display, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Emirates",
+	"patent_count": "1"
+},
+{
+	"owner": "Trilogy Development Group, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Truveo, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "DataSynapse, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Canon Kabuhsiki Kaisha",
+	"patent_count": "1"
+},
+{
+	"owner": "Bytemobile Network Services Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "AT&T Intellectual Property, I, L.P.",
+	"patent_count": "1"
+},
+{
+	"owner": "Metrovideo, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Waters Technologies Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "3DLabs Inc. Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "UBS Financial Services Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Microft Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "CiraNova, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "UBS Financial Services, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "American Management Systems, Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "KL Internet Applications, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Fabric Embedded Tools Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "SealedMedia Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Novatech LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "BAE Systems Enterprise Systems Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "Protegrity Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Fujitsu Component Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Primal Fusion, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "O2Micro International Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Lenovo Singapore Pte Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "GTEKO, Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "Padcom Holdings, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Idealab",
+	"patent_count": "1"
+},
+{
+	"owner": "Ning, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "The MacGregor Group, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Siebel Systems Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "TVWorks, LLC.",
+	"patent_count": "1"
+},
+{
+	"owner": "Spinvox Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Cortina Systes, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Exbibuo B.V.",
+	"patent_count": "1"
+},
+{
+	"owner": "Varonis Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "WMware, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Snif Labs, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Santera Systems, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Drop Zone Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sun Microsystems, Inc",
+	"patent_count": "1"
+},
+{
+	"owner": "Network Equipment Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Trellia Networks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Genexies Mobile, S. L.",
+	"patent_count": "1"
+},
+{
+	"owner": "Societe Francaise du Radiotelephone",
+	"patent_count": "1"
+},
+{
+	"owner": "Windmill Microsystems Holding BV",
+	"patent_count": "1"
+},
+{
+	"owner": "Techradium, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Seventh Knight",
+	"patent_count": "1"
+},
+{
+	"owner": "D & S Consultants, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "D. E. Shaw & Company",
+	"patent_count": "1"
+},
+{
+	"owner": "Ixreveal, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Overwatch Systems Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Skytide, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Mindspark Interactive Network, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "GolfNow, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Inmage Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Prolifiq Software Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Korea Advanced Institute of Science and Technology (KAIST)",
+	"patent_count": "1"
+},
+{
+	"owner": "Cardinal Brands, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Palladia Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "BSQUARE Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "RFCyber Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Deutsche Bu00f6rse AG",
+	"patent_count": "1"
+},
+{
+	"owner": "Embarq Holdings Company LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Imagination Technologies Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Aspect Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Lumen Vox, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Clickshare Service Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "NaviMedix, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Achilles Guard Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "America Online, Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "Lexmark International, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Accuray Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Advanced Neuromodulation Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "International Buisness Machines Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Actional Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "@ Hand Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Secureworks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "GE Security, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Interactive People Unplugged AB",
+	"patent_count": "1"
+},
+{
+	"owner": "Vestacare, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "GE Medical Systems Global Technology Company, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "MJW Corporation Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Alps Electric Co., Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Asgent, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Siemens Building Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Hughes Network Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Evolving Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "WebXchange, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "eFunds Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "NextHop Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Cygnus Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "PureNative Software Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Sidestep, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sabre Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Netegrity, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Webex Communicatons, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Bellarc, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Fair Isaac and Company, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "PC-Doctor, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Alticor Investments Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Belle Gate Investment B.V.",
+	"patent_count": "1"
+},
+{
+	"owner": "Aventail Corporation, a wholly owned subsidiary of SonicWALL, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Qarbon.com, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Hitwise Pty, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Interactive Intelligence, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Cellport Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Clink Systems, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Global IP Solutions, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Azurn America, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "McKesson Financial Holdings Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Digital Evolution",
+	"patent_count": "1"
+},
+{
+	"owner": "Propel Software Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Goahead Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Borland Software Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Foveon, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Amazon.com, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "LG Telecom, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "AVT Technologies Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Vortant Technologies, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "KnowNow-Delaware",
+	"patent_count": "1"
+},
+{
+	"owner": "Bitplane AG",
+	"patent_count": "1"
+},
+{
+	"owner": "McData Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Johnson Outdoors Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Aventail, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "BBN Technologies Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "ABB Technology AG",
+	"patent_count": "1"
+},
+{
+	"owner": "B2EMarkets, Inc",
+	"patent_count": "1"
+},
+{
+	"owner": "TPLAB",
+	"patent_count": "1"
+},
+{
+	"owner": "Sony Computer Entertainment America Inc.,",
+	"patent_count": "1"
+},
+{
+	"owner": "NTT DoCoMo, Inc,",
+	"patent_count": "1"
+},
+{
+	"owner": "Zaxel Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Spyder Navigations, L.L.C.",
+	"patent_count": "1"
+},
+{
+	"owner": "B2EMarkets, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Scientific Atlanta, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Microsoft Corporations",
+	"patent_count": "1"
+},
+{
+	"owner": "Alcor Micro, Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Gamecaster, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "AT&T Delaware Intellectual Property, Inc.,",
+	"patent_count": "1"
+},
+{
+	"owner": "Mediaplatofrm On-Demand, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Diebold Self-Service Systems divison of Diebold, Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "University of Maryland",
+	"patent_count": "1"
+},
+{
+	"owner": "Xiotech Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Fujifilm Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "InfoInteractive",
+	"patent_count": "1"
+},
+{
+	"owner": "GE Healthcare Bio-Sciences AB",
+	"patent_count": "1"
+},
+{
+	"owner": "MY EZ Communications, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Grape Technology Group, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Univeristy of Utah Research Foundation",
+	"patent_count": "1"
+},
+{
+	"owner": "SBC Knowledge Ventures, LP",
+	"patent_count": "1"
+},
+{
+	"owner": "Microstrategy, Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "Authentidate Holding Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Boston Communications Group, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Personnel Research Associates, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Emotive Communications, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Newmerix Corpu00a3",
+	"patent_count": "1"
+},
+{
+	"owner": "Primex Holdings, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Objective Interface Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Identrus",
+	"patent_count": "1"
+},
+{
+	"owner": "Networks Appliance, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sandpiper Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Object Technology Licensing Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Yappa Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Ford Motor Company",
+	"patent_count": "1"
+},
+{
+	"owner": "WRE-HOL LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Bentley Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Maxamine International Pyt Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "Dassault Systemes",
+	"patent_count": "1"
+},
+{
+	"owner": "Datacolor Holding AG",
+	"patent_count": "1"
+},
+{
+	"owner": "Maxygen, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "BayNet World, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "OPYO, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sega Enterprises, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "SWsoft Holdings, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "OutlookSoft Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Shear Graphics, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Federal Home Loan Mortgage Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Accurev, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Liga Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "UDICO Holdings",
+	"patent_count": "1"
+},
+{
+	"owner": "Global 360, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Flash Networks, Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "Falconeer Technologies LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Micosoft Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Phonex Broadband Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "ARC International IP, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Gemalto Inc",
+	"patent_count": "1"
+},
+{
+	"owner": "Lombardi Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Jarna, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Power-One, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "National Cheng Kung University",
+	"patent_count": "1"
+},
+{
+	"owner": "Vertical Communications Acquisition Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "DENSO CORPORATION",
+	"patent_count": "1"
+},
+{
+	"owner": "Skyguard, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Motricity, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "QAD Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "AT&T Intellectual Property, I,L.P.",
+	"patent_count": "1"
+},
+{
+	"owner": "Eride, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Chicago Mercantile Exchange",
+	"patent_count": "1"
+},
+{
+	"owner": "Solidcore Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "3DLABS",
+	"patent_count": "1"
+},
+{
+	"owner": "Agilent Technologies Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Kawasaki Microelectronics, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Fidelis Security Systems",
+	"patent_count": "1"
+},
+{
+	"owner": "Ayaya Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Three-B International Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Trusted Logic",
+	"patent_count": "1"
+},
+{
+	"owner": "Electronics Arts Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "GlobeRanger Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Greenplum, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Bentley Systens, Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "First Hop Oy",
+	"patent_count": "1"
+},
+{
+	"owner": "Catchfire Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Keck Graduate Institute",
+	"patent_count": "1"
+},
+{
+	"owner": "Hughes Networks Systems, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Lenovo Singapore Pte, Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "Identrus LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "GenBand Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Southwestern Bell Telephone Company",
+	"patent_count": "1"
+},
+{
+	"owner": "mValent, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sierra Logic",
+	"patent_count": "1"
+},
+{
+	"owner": "International Business Machines of Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "STMicroelectronics Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Accenture ANS",
+	"patent_count": "1"
+},
+{
+	"owner": "UTStarcom, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Xtreamlok Pty Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "Avery Dennison Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Xante Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Institute of Information Technology Assessment",
+	"patent_count": "1"
+},
+{
+	"owner": "Applied Voice & Speech Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "T-Tag Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "DaimlerChrysler Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Edge Capture, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Certco, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Inxight Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Yazaki North America, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Astec International Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Smart Card Solutions Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Microsoft Corpoartion",
+	"patent_count": "1"
+},
+{
+	"owner": "Silverback Systems Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "KCRS, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "America Online Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "2Point Communications, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "SandCherry, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Intelitrac, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Master Mine Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Hubbard & Wells",
+	"patent_count": "1"
+},
+{
+	"owner": "Dash Navigation, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Cyber Operations, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Contex A/S",
+	"patent_count": "1"
+},
+{
+	"owner": "StreamWorks Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Green Border Technologies",
+	"patent_count": "1"
+},
+{
+	"owner": "Gryphon Networks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Shipcom Wireless Inc",
+	"patent_count": "1"
+},
+{
+	"owner": "The Johns Hopkins University",
+	"patent_count": "1"
+},
+{
+	"owner": "Digeo, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Mercury Interactive Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Harman International Industries, Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "NanoInk, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Intelliden",
+	"patent_count": "1"
+},
+{
+	"owner": "ACL International Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Samsung Electronics, Co., Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Protexis, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Witness Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "CrystalVoice Communications",
+	"patent_count": "1"
+},
+{
+	"owner": "Tranzeo Wireless Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Electronic Arts",
+	"patent_count": "1"
+},
+{
+	"owner": "International Business Machines, Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "PHC LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Nortal Networks Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Racemi, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "ArchVision, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Pioneer Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "BBN Technologies Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Footprint Systems Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sky Technologies LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Microsoft Crporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Totally Global, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Unitronics (1989) (Ru2033G) Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Autologic, L.L.C.",
+	"patent_count": "1"
+},
+{
+	"owner": "International Business Machine Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Tricerat, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Color Kinetics Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "Access Co., Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "Digital Sandbox",
+	"patent_count": "1"
+},
+{
+	"owner": "University of Florida Research Foundation, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Wall Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Reynolds and Reynolds Holdings, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Bull, SA",
+	"patent_count": "1"
+},
+{
+	"owner": "Verigy Pte. Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "American Management Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Cargill, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "STMicroelectronics Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Drummond Group",
+	"patent_count": "1"
+},
+{
+	"owner": "Matsushita Electric Industrial Company, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Wyse Technology, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Watchfire Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "AT&T Intellectual Property, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "UBS Painewebber, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Archivas, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Agfa Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Motorola Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Prelude Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Data Quality Solutions",
+	"patent_count": "1"
+},
+{
+	"owner": "Network General Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Schlumberger Omnes, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Iomega Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "MobiTV, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Longboard, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "ITXC IP Holdings S.a.r.l.",
+	"patent_count": "1"
+},
+{
+	"owner": "Aleri, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Minor Ventures, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "IT Liberator AS",
+	"patent_count": "1"
+},
+{
+	"owner": "Gene Logic Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "NetView Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "HyperVision, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Type80 Security Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Lam Design Management LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "University of Strathclyde",
+	"patent_count": "1"
+},
+{
+	"owner": "LightSpace Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Petris Technology Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "International Busniess Machines Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Sun Microsystems Inc",
+	"patent_count": "1"
+},
+{
+	"owner": "Sharp Laboratories of America",
+	"patent_count": "1"
+},
+{
+	"owner": "Centrisoft Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Ericsson, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Inceptor, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Hyperspace Communications, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Terastat, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Solid Information Technology Oy",
+	"patent_count": "1"
+},
+{
+	"owner": "Captech Ventures, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Luminex Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Edge Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Iovation, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Western Digital Ventures, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Telelogic North America Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sanyo Electric Co., Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Proficiency, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "American Board of Family Medicine, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Shaw Parsing LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Starvox Communications Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Cadence Design (Israel) II Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "TimeBase Pty Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Acer Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Pinnacle Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "MobileAware Technologies Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Tellme Networks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Agilquest Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Bridicum A/S",
+	"patent_count": "1"
+},
+{
+	"owner": "Zinio Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Packeteer, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Robotic Built Structures, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Microsoft Coporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Tranxition Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "British Columbia Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Accenture GmbH",
+	"patent_count": "1"
+},
+{
+	"owner": "Cyberview Technology, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Avaya Integrated Cabinet Solutions, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "ACK Venture Holdings, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "The Regents of the University of Michigan",
+	"patent_count": "1"
+},
+{
+	"owner": "i-net Software GmbH",
+	"patent_count": "1"
+},
+{
+	"owner": "Meterologic Instruments, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Minor Ventures, LLC.",
+	"patent_count": "1"
+},
+{
+	"owner": "WebMD Health",
+	"patent_count": "1"
+},
+{
+	"owner": "Minolta Co., Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Platform Digital LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Siemens Corporate Research, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Upaid Systems, Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "Extreme Networks",
+	"patent_count": "1"
+},
+{
+	"owner": "Jacob Rimmell Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "@Hand Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "One Touch Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "American International Group, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Overture Services Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "CP8 Technologies",
+	"patent_count": "1"
+},
+{
+	"owner": "Netcentrex",
+	"patent_count": "1"
+},
+{
+	"owner": "Soma Networks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Green Wireless LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Threewide.com, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Radiant Logic Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "S.J. Bashen, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Fidelia Technology, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Groove Networks, Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "Sun Microsytems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Microsoft Corportion",
+	"patent_count": "1"
+},
+{
+	"owner": "Agfa-Bevaert N.V.",
+	"patent_count": "1"
+},
+{
+	"owner": "Onrelay Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "BIF Technologies Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Peerless Systems Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Tajen Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Transclick, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Midwest Payment Systems",
+	"patent_count": "1"
+},
+{
+	"owner": "Siemens Medical Systems Health Services Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Wilde Technologies Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "TeleCommunication Systems Corporation of Maryland",
+	"patent_count": "1"
+},
+{
+	"owner": "Transdimension Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Codefast, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Vykor, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Aechelon Technology, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Saffron Technology Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Appmind Software AB",
+	"patent_count": "1"
+},
+{
+	"owner": "Eoriginal, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "OIC Acquistion I Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Siemens Medical Solutions Health Services Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Ciena Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Corticon Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Kraft Foods Holdings, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Anadigm, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Intuit, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Vicarious Visions, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Bitboys, Oy",
+	"patent_count": "1"
+},
+{
+	"owner": "Prologue Communications, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Citrix Sytems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Lenovo (Singapore) Pte, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Path Communications, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "VoiceGenie Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "MMA-Marconi Mobile Access S.p.A.",
+	"patent_count": "1"
+},
+{
+	"owner": "3DGeo Development, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Knowledge Filter, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Slam Dunk Networks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Pace Anti-Piracy, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "D.E. Shaw & Company",
+	"patent_count": "1"
+},
+{
+	"owner": "Remote Meeting Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Safenet Canada. Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "8u00d78, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "SAP Labs, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "ActiveWord Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Canal + Technologies",
+	"patent_count": "1"
+},
+{
+	"owner": "Doubleclick Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "MapInfo Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Netspective Communications, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Xtend Communications Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Siemens Communications Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Thought, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Bang Networks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Francotyp Postalia AG & Co. KG",
+	"patent_count": "1"
+},
+{
+	"owner": "United States of America as represented by the Secretary of the Navy",
+	"patent_count": "1"
+},
+{
+	"owner": "OIC Acquisition Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "IBM Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Electronics Data Systems Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Mangosoft Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Internet Number Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "RTO Sortware, Inc",
+	"patent_count": "1"
+},
+{
+	"owner": "Learning Tree International, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "IAC/Interactivecorp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Danger, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Chaavi, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Telefonktiebolaget LM Ericsson (publ)",
+	"patent_count": "1"
+},
+{
+	"owner": "Innovative Communications Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Eye on Solutions, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Cadence Design System, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "icPlanet Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "CopperCom, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Cryptek, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "IndX Software Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sony Corporatiom",
+	"patent_count": "1"
+},
+{
+	"owner": "Emtex Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Cybear, L.L.C.",
+	"patent_count": "1"
+},
+{
+	"owner": "Microsft Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Wideray Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Convergys CMG Utah Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Pegasus Solutions, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Finjan Software Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Intellinet, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Skyworks Solutions, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Kabushikikaisha Equos Research",
+	"patent_count": "1"
+},
+{
+	"owner": "eSecureDocs, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "LogicLibrary, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Measurement Computing Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "SavaJe Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Mobile Agent Technologies, Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "Common Voices LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Telesector Resources Group, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Far EasTone Telecommunications Co., Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Infor International Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "UBS AG",
+	"patent_count": "1"
+},
+{
+	"owner": "Roche Palo Alto LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Quickshift, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "OIC Acquisition I Corp",
+	"patent_count": "1"
+},
+{
+	"owner": "IDSC Holdings, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "VelQuest Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Boundary Solutions Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "Litepoint, Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Ivivity, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Pinion Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Persistence Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Cipher Trust, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Unicorn Solutions",
+	"patent_count": "1"
+},
+{
+	"owner": "Conexant, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Thought Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "British Telecommunications",
+	"patent_count": "1"
+},
+{
+	"owner": "Bae Systems Information Technology LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Questerra Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Ericom Software 8 2001 Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Meta4Hand Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Rockwell Electronic Commerce Technologies, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Trados, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Manugistics, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Exit41, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Tecsec, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "In-Hand Electronics, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Comet Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Alienware Labs Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Array Telecom Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Claymore Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Redback Networks Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Speech Works International, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "W. Quinn, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Axalto, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sepialine Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "Centergistic Solutions, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Zaplet, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sevis Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Affymetrix, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Lumenare Networks",
+	"patent_count": "1"
+},
+{
+	"owner": "Atreus Systems Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Maritz Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Accentus, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Liquidnet, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Mangosoft Intellectual Property, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "ConocoPhillips Company",
+	"patent_count": "1"
+},
+{
+	"owner": "Avago Technologies General IP (singapore) Pte. Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Radiance Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Nugenesis Technologies Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Telefonaktienbolaget LM Ericsson (publ)",
+	"patent_count": "1"
+},
+{
+	"owner": "Sun Microsystem, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "2006 Trident Company",
+	"patent_count": "1"
+},
+{
+	"owner": "Sendmail, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Axalto SA",
+	"patent_count": "1"
+},
+{
+	"owner": "Snowshore Networks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Creative Technology Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "Logic Library, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Unicast Communiations Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Nash Controlware, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Interuniversitair Microelektronica Centrum (IMEC)",
+	"patent_count": "1"
+},
+{
+	"owner": "SLT Logic LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Siemens Communications, Inc. - Boca Raton",
+	"patent_count": "1"
+},
+{
+	"owner": "eSecure.biz, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Alice Systems AB",
+	"patent_count": "1"
+},
+{
+	"owner": "Uhuru Networks",
+	"patent_count": "1"
+},
+{
+	"owner": "Solid Data Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Ben Franklin Patent Holding L.L.C.",
+	"patent_count": "1"
+},
+{
+	"owner": "SMAR Research Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Triveni Digital Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Nokia Mobile Phones Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "LiveVault Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "First Opinion Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "CommerceQuest, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Chesterfield Holdings, L.L.C.",
+	"patent_count": "1"
+},
+{
+	"owner": "Verify & Protect Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Intermec IP.Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Eolas Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "OIPENN, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Caterpillar Inc",
+	"patent_count": "1"
+},
+{
+	"owner": "Fraunhofer-Gesellschaft zur Foerderung der angewandten Forschung e.V.",
+	"patent_count": "1"
+},
+{
+	"owner": "Ranco Incorporated",
+	"patent_count": "1"
+},
+{
+	"owner": "Telefonaktiegolaget LM Ericsson",
+	"patent_count": "1"
+},
+{
+	"owner": "Faro Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Net2Phone, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Blink Engineering Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Verizon Corporate Services Group",
+	"patent_count": "1"
+},
+{
+	"owner": "Kana Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Yodlee, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Bell Atlantic Nynex Mobile",
+	"patent_count": "1"
+},
+{
+	"owner": "AGY Therapeutics, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Collaborative Decision Platforms, LLC.",
+	"patent_count": "1"
+},
+{
+	"owner": "Telefonaktiebolaget LM Ericsson",
+	"patent_count": "1"
+},
+{
+	"owner": "Networks Associates Technology Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "SilverStream Software, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Gateway, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Nuance Communications",
+	"patent_count": "1"
+},
+{
+	"owner": "Q3DM, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "The Arizona Board of Regents on behalf of the University of Arizona",
+	"patent_count": "1"
+},
+{
+	"owner": "Phoenix Technologies Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "xSide Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "BMC Software",
+	"patent_count": "1"
+},
+{
+	"owner": "PhoChron, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Test Quest, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "4-D Networks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Collaborative Decision Platforms, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Monterey Bay Aquarium Research Institute",
+	"patent_count": "1"
+},
+{
+	"owner": "Codemesh, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Mobile Thinking, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Esker, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "NMS Communications",
+	"patent_count": "1"
+},
+{
+	"owner": "Vibren Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Booz-Allen Hamilton, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "International Truck Intellectual Property Company, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Implicit Networks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "SBC Properties, L.P.",
+	"patent_count": "1"
+},
+{
+	"owner": "Sony International (Europe) GmbH",
+	"patent_count": "1"
+},
+{
+	"owner": "Inktomi Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Starfish Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Aladdin Knowledge Systems, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Meteora System Co., Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Clinical Care Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Kabushiki Kaisha Yaskawa Denki",
+	"patent_count": "1"
+},
+{
+	"owner": "Trafficmaster plc",
+	"patent_count": "1"
+},
+{
+	"owner": "Prosight, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Verisity Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Vizional Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Brooktrout, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Cerebrus Solution Limited",
+	"patent_count": "1"
+},
+{
+	"owner": "Netilla Networks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "E*Trade",
+	"patent_count": "1"
+},
+{
+	"owner": "Spyglass, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Concerto Software, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Eagle Engineering of America, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Neuroscience Toolworks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Broadizon, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Purdue Research Foundation",
+	"patent_count": "1"
+},
+{
+	"owner": "Digital Theater Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Left Gate Holdings, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Network Associates, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Touchnet Information Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "MatrixOne, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Motient Communications Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "InterActual Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Emrys Technologies, Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Leap Wireless International Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Apple Computer",
+	"patent_count": "1"
+},
+{
+	"owner": "Centre National d'Etudes Spatiales (C.N.E.S.)",
+	"patent_count": "1"
+},
+{
+	"owner": "HOB GmbH & Co. KG",
+	"patent_count": "1"
+},
+{
+	"owner": "Master Solutions, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "TracBeam, LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Believe, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Medtronic Emergency Response Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Accela, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Mediphonics, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Maxygen",
+	"patent_count": "1"
+},
+{
+	"owner": "BBX Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Mobile-Mind, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Packard Bell NEC",
+	"patent_count": "1"
+},
+{
+	"owner": "Language Analysis Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Hughes Electronics Corp.",
+	"patent_count": "1"
+},
+{
+	"owner": "Comverse Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "Nortel Networks, Ltd",
+	"patent_count": "1"
+},
+{
+	"owner": "Silverpop Systems, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "University of Rochester",
+	"patent_count": "1"
+},
+{
+	"owner": "Cisco Systems Canada Co.",
+	"patent_count": "1"
+},
+{
+	"owner": "Symyx Technologies, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Imagelinx International Ltd.",
+	"patent_count": "1"
+},
+{
+	"owner": "UTStarcom Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Metro One Telecommunications, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Stratus Technologies Bermuda LTD",
+	"patent_count": "1"
+},
+{
+	"owner": "Visual Networks, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "SeeBeyond Technology Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Isogon Corporation",
+	"patent_count": "1"
+},
+{
+	"owner": "Scientific-Atlanta, Inc",
+	"patent_count": "1"
+},
+{
+	"owner": "Crystal Voice Communications",
+	"patent_count": "1"
+},
+{
+	"owner": "Beach Unlimited LLC",
+	"patent_count": "1"
+},
+{
+	"owner": "Metpologic Instruments, Inc.",
+	"patent_count": "1"
+},
+{
+	"owner": "Quixtar Investments, Inc.",
 	"patent_count": "1"
 }]
