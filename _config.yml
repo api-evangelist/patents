@@ -59,7 +59,7 @@ navigation:
   - label1: Patents
     link1: patents.html
     size1: 80
-    extend: 1
+    extend: 0
     label2:
     link2:
     size2: 60
@@ -68,7 +68,7 @@ navigation:
   - label1: Companies
     link1: companies.html
     size1: 80
-    extend: 1
+    extend: 0
     label2:
     link2:
     size2: 60
