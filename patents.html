@@ -2,11 +2,6 @@
 layout: page
 title: Patents
 ---
-<ul class="toolbar">
-    <li>{"<a href="http://patents.apievangelist.com/data/patents.json" title="JSON" target="_blank">JSON</a>"}</li>
-    <li>{"<a href="https://apievangelist.3scale.net/docs" title="API" target="_blank">API</a>"}</li>
-</ul>
-
 <h1 class="title">Patents</h1>
 <p>I'm slowly going through each year of <a href="http://patents.reedtech.com/pgrbft.php">patents</a>, and as I load each XML file, I search through the title, abstract, and description of each patent for the phrase "application programming interface". If a patent contains these words, I pull out and include in an API, and resulting JSON file stored on this site for exploration.</p>
 <p>It takes time, compute, storage, and bandwidth resources to process these, and as I add new files, I will publish the resulting information here. If you'd like access to the resulting API, let me know.</p>
@@ -14,17 +9,17 @@ title: Patents
 <p align="center">View patents with "application programming interface" in...<br /><br /> <a href="/patents.html?filter=name">title</a> (151) - <a href="/patents.html?filter=abstract">abstract</a> (569)</strong></p>
 <hr />
 {% raw  %}
-<script id="patentListingTemplate" type="text/template">       
+<script id="patentListingTemplate" type="text/template">
     <tr>
         <td align="left" valign="top">
             <strong>{{name}}</strong><br /><br />
             <strong>Patent Publication:</strong> {{ publication_number }} ({{ publication_date }})<br />
-            <strong>Patent Application:</strong> {{ application_number }} ({{ application_date }})<br /> <br />         
+            <strong>Patent Application:</strong> {{ application_number }} ({{ application_date }})<br /> <br />
             <strong>Owner:</strong> {{owner}}<br /><br />
             {{abstract}}
         </td>
-    </tr> 
-    <tr><td><hr /></td></tr>                                                                                         
+    </tr>
+    <tr><td><hr /></td></tr>
 </script>
 {% endraw %}
 
@@ -54,15 +49,15 @@ function listPatents()
     $.getJSON($file, function(data) {
 
          $.each(data, function(key, val) {
-         	
+
          	$match_type = val['match_type'];
-         	
+
             var template = $('#patentListingTemplate').html();
             var html = Mustache.to_html(template, val);
             $('#patentListing').append(html);
-             
+
             });
         });
-    } 
+    }
 listPatents();
 </script>
