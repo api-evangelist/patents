@@ -45,12 +45,21 @@ navigation:
     size2: 0
     padding: 0
     decorate: 0
+  - label1: Blog
+    link1: /blog/
+    size1: 80
+    extend: 1
+    label2: RSS
+    link2: /blog.xml
+    size2: 60
+    padding: 0
+    decorate: 0    
   - label1: News
     link1: /news/
     size1: 80
     extend: 1
     label2: RSS
-    link2: /blog.xml
+    link2: /news.xml
     size2: 60
     padding: 0
     decorate: 0
