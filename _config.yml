@@ -52,7 +52,7 @@ navigation:
     label2: RSS
     link2: /blog.xml
     size2: 60
-    padding: 10
+    padding: 0
     decorate: 0
   - label1: Patents
     link1: /patents/
