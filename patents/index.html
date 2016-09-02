@@ -53,6 +53,8 @@ function listPatents()
         $yearcount = data.length;
         document.getElementById('titlelabel') = filter;
         document.getElementById('titlecount') = yearcount;
+        console.log("filter: " + $filter);
+        console.log("count: " + $yearcount);
 
          $.each(data, function(key, val) {
 
