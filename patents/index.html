@@ -46,19 +46,17 @@ if($filter=='2006'){ $file = '/data/patents-2006.json'; }
 if($filter=='2005'){ $file = '/data/patents-2005.json'; }
 function listPatents($filter)
     {
-    console.log("filter (in): " + $filter);
+    //console.log("filter (in): " + $filter);
+    document.getElementById('titlelabel').innerHTML = $filter;
     $.getJSON($file, function(data,$filter) {
 
         $yearcount = data.length;
-        document.getElementById('titlelabel').innerHTML = $filter;
         document.getElementById('titlecount').innerHTML = $yearcount;
-        console.log("filter: " + $filter);
-        console.log("count: " + $yearcount);
 
          $.each(data, function(key, val) {
 
          	$match_type = val['match_type'];
-          console.log("type: " + $match_type);
+          //console.log("type: " + $match_type);
 
             var template = $('#patentListingTemplate').html();
             var html = Mustache.to_html(template, val);
