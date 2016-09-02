@@ -51,8 +51,8 @@ function listPatents()
     $.getJSON($file, function(data) {
 
         $yearcount = data.length;
-        document.getElementById('titlelabel') = filter;
-        document.getElementById('titlecount') = yearcount;
+        document.getElementById('titlelabel').innerHTML = filter;
+        document.getElementById('titlecount').innerHTML = yearcount;
         console.log("filter: " + $filter);
         console.log("count: " + $yearcount);
 
