@@ -1,0 +1,21 @@
+---
+layout: page
+title: API Patents - 2016
+---
+
+<h3>API Patents - 2016</h3>
+<p>These are patents for 2016 that have the phrase "application programming interface" in the title, abstract, or description.</p>
+<table width="100%" border="0" cellpadding="3" cellspacing="2">
+  {% for patent in site.data.patents-2016 %}
+  <tr>
+      <td align="left" valign="top">
+          <strong>{{ patent.name }}</strong><br /><br />
+          <strong>Patent Publication:</strong> {{ patent.publication_number }} ({{ patent.publication_date }})<br />
+          <strong>Patent Application:</strong> {{ patent.application_number }} ({{ patent.application_date }})<br /> <br />
+          <strong>Owner:</strong> {{ patent.owner }}<br /><br />
+          {{ patent.abstract }}
+      </td>
+  </tr>
+  <tr><td><hr /></td></tr>
+  {% endfor %}
+</table>
