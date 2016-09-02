@@ -48,8 +48,9 @@ if($filter=='2005'){ $file = '/data/patents-2005.json'; }
 
 function listPatents($filter)
     {
+    console.log("1");
     $.getJSON($file, function(data) {
-
+        console.log("2");  
         $yearcount = data.length;
         document.getElementById('titlelabel').innerHTML = filter;
         document.getElementById('titlecount').innerHTML = yearcount;
