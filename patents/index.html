@@ -29,7 +29,7 @@ title: Patents
 <script type="text/javascript">
 
 $filter = getUrlVar('filter');
-
+console.log("filter: " + $filter);
 if($filter==''){ $file = '/data/patents-name.json'; }
 if($filter=='name'){ $file = '/data/patents-name.json'; }
 if($filter=='abstract'){ $file = '/data/patents-abstract.json'; }
@@ -45,7 +45,7 @@ if($filter=='2008'){ $file = '/data/patents-2008.json'; }
 if($filter=='2007'){ $file = '/data/patents-2007.json'; }
 if($filter=='2006'){ $file = '/data/patents-2006.json'; }
 if($filter=='2005'){ $file = '/data/patents-2005.json'; }
-
+console.log("filter: " + $filter);
 function listPatents($filter)
     {
     $.getJSON($file, function(data,$filter) {
