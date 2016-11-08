@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "zWNS63PNTKkuxX9D3lSZgQvgtmINM4YF2iNxbKBfxoMGAPkvDLsbiFdIRmluikEWFyt5g7P116xnpV4mslKOY0UQ117117",
+		"item_date": "2016-10-31 00:00:00",
+		"title": "Stupid Patent of the Month Changing the Channel",
+		"url": "https://www.eff.org/deeplinks/2016/10/stupid-patent-month-changing-channel",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "gq1nbI1167tyfABn116123123pd123cvoEKIPhK02eU4y6WMSOYObOozEDYypfxGXh1HEa116HgoxMYlI116wnb4A5U6sOWVe5Gw117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "USPTO Proposed to Revise Rule 56",
+		"url": "http://patentlyo.com/hricik/2016/11/uspto-proposed-revise.html",
+		"domain": "patentlyo.com",
+		"image": ""
+	},
+	{
 		"curated_id": "KqdcGx4XG6MSivNpex4wes123NFqQ69CBsIjSE7rqLrsmHYV1233PXCeF4ReUUTIBimBXsvHV4xhDtgtjHWhsawN2A117117",
 		"item_date": "2016-11-06 00:00:00",
 		"title": "Pendency of US Patent Applications",
@@ -8,10 +24,26 @@
 		"image": ""
 	},
 	{
+		"curated_id": "9P116yvrrmELkI2OFMq5123KyOghFo1161kJC123e8LDBA6Kvyfua123hi8123kvwnlCj8dYBRQM6upxwu116rXzGJf7EAnHiNeg117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "A Bit More Transparency in Patent Lawsuits",
+		"url": "https://www.eff.org/deeplinks/2016/11/bit-more-transparency-patent-lawsuits",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "BL116Vxn9Zq7gRqGM0E56370s4vi21U11Cw0suC9ukTEqnTyHwhDExolPdo3GfT123QXLsEFkqh54PmlVMIpdkSYWQ117117",
+		"item_date": "2016-11-02 00:00:00",
+		"title": "USPTO Allowance Rate",
+		"url": "http://patentlyo.com/patent/2016/11/uspto-allowance-rate-2.html",
+		"domain": "patentlyo.com",
+		"image": ""
+	},
+	{
 		"curated_id": "3IIaaGiKuNKIfd123vLjBo0aFYcNWfSWxXJjND116mj2bSNtx2q4URWdo116iiR123JGwU1fuCxFbRVnLmu2juInri6SHA117117",
 		"item_date": "2016-11-03 00:00:00",
 		"title": "Amazon Patents Shoulder Drone for Cops",
-		"url": "http://www.pcmag.com/news/349293/amazon-patents-shoulder-drone-for-cops?source=SectionArticles",
+		"url": "http://www.pcmag.com/news/349293/amazon-patents-shoulder-drone-for-cops",
 		"domain": "www.pcmag.com",
 		"image": ""
 	},
@@ -19,7 +51,7 @@
 		"curated_id": "O1v69cnefHdpfNDH1237kV1167chFrylT9ewMErx3P1800s4aepdddSz5cyn2MpnB34JZwk123oQ6Nrn1xCFzkXxy6EA117117",
 		"item_date": "2016-11-04 00:00:00",
 		"title": "Blockchains for Patent Filings",
-		"url": "https://dzone.com/articles/blockchains-for-patent-filings?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"url": "https://dzone.com/articles/blockchains-for-patent-filings",
 		"domain": "dzone.com",
 		"image": ""
 	},
