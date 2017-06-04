@@ -1,45 +1,42 @@
 ---
 layout: page
-title: Patents
+title: API Definition Organizations
 ---
 
-<h1 class="title">Companies With Patent Count</h1>
-<p>I am trying to pull out different views of the API patent space, and group patents by the companies that own them seems like a logical next step. Eventually I will link companies to other areas of my research.</p>
-{% raw  %}
-<script id="patentListingTemplate" type="text/template">
-    <tr>
-        <td align="left">
-            <strong>{{owner}}</strong>
-        </td>
-        <td>
-        	{{patent_count}}
-        </td>
-    </tr>
-</script>
-{% endraw %}
+{% assign organization_content = site.data.organization_content.index[0] %}
+<section>
+  <header class="main">
+    <h2>{{ organization_content.title }}</h2>
+  </header>
+<p><img style="padding: 15px;" src="{{ organization_content.image }}" align="right" width="35%" /></p>  
+  <p>{{ organization_content.header }}</p>
+  <div class="features">
+		{% assign organizations = site.data.organizations.index %}
+    {% for organization in organizations %}
+			<article>
+				<p><a href="{{ organization.url }}" target="_blank"><img style="padding: 15px; vertical-align: top;" src="{{ organization.image }}" width="175" align="center" /></a></p>
+				<div class="content">
+					<h3><a href="{{ organization.url }}" target="_blank">{{ organization.name }}</a></h3>
+					<p>{{ organization.description }}</p>
+					<ul class="icons">
+						<li><a href="{{ organization.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
+						{% if organization.twitter != '' %}
+						<li><a href="{{ organization.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+						{% endif %}
+						{% if organization.blog != '' %}
+						<li><a href="{{ organization.blog }}" class="icon fa-rss"><span class="label">Blog</span></a></li>
+						{% endif %}
+						{% if organization.blog_rss != '' %}
+						<li><a href="{{ organization.blog_rss }}" class="icon fa-rss-square"><span class="label">RSS</span></a></li>
+						{% endif %}
+						{% if organization.github != '' %}
+						<li><a href="{{ organization.github }}" class="icon fa-github"><span class="label">Github</span></a></li>
+						{% endif %}
+					</ul>
+				</div>
+			</article>
+    {% endfor %}
+	</div>
 
-<table id="patentListing" style="" width="100%" cellpadding="1" cellspacing="1" border="0"></table>
-
-<script type="text/javascript">
-
-$filter = getUrlVar('filter');
-
-if($filter==''){ $file = '/data/patent-companies.json'; }
-
-function listPatents()
-    {
-    $.getJSON($file, function(data) {
-
-         $.each(data, function(key, val) {
-
-         	$match_type = val['match_type'];
-
-            var template = $('#patentListingTemplate').html();
-            var html = Mustache.to_html(template, val);
-            $('#patentListing').append(html);
-
-            });
-        });
-    }
-listPatents();
-</script>
+  <p>{{ organization_content.footer }}</p>
+</section>
