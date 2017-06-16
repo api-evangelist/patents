@@ -31,6 +31,5 @@ footer_image_source: https://s3.amazonaws.com/kinlane-productions/footer/empower
 footer_image_width: 60
 
 collections:
-  _patents:
+  - _patents:
     output: true
-    permalink: /:collection/:name
