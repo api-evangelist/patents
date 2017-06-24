@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign patent_content = site.data.patent_content.index[0] %}
+{% assign blog_content = site.data.blog_content.index[0] %}
 
 <!-- Tools -->
 <section>
@@ -14,15 +14,15 @@ layout: default
 		</tr>
 	</table>
   <header class="main">
-    <h2>{{ patent_content.title }}</h2>
+    <h2>{{ blog_content.title }}</h2>
   </header>
   <p>{{ blog_content.header }}</p>
   {% for post in paginator.posts %}
         <h3><a href="{{ site.production_url }}{{ post.url }}">{{ post.title }}</a></h3>
         <span class="post-date">{{ post.date | date_to_string }}</span>
-        {{ post.abstract }}
+        {{ post.content }}
         <ul class="actions" style="text-align: center;">
-          <li><a href="{{ site.production_url }}{{ post.url }}" class="button big">View Patent</a></li>
+          <li><a href="{{ site.production_url }}{{ post.url }}" class="button big">View Detail</a></li>
         </ul>
       	<center><hr style="width: 75%;" /></center>
   {% endfor %}
@@ -33,6 +33,6 @@ layout: default
 		<li style="text-align:right;"><a href="/blog/page{{paginator.next_page}}" class="button">Next >></a></li>
 	</ul>
 
-	<p>{{ patent_content.footer }}</p>
+	<p>{{ blog_content.footer }}</p>
 
 </section>
