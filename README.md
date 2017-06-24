@@ -1,3 +1,5 @@
-# Patent Research
+# API Evangelist Patent Research
 
-URL: http://patentss.apievangelist.com
+Sifting through the API patents as I shake my head...
+
+URL: http://patents.apievangelist.com
