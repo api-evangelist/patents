@@ -1,7 +1,7 @@
 ---
 - title: API Patents
   image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-  header: I have pulled any patents that have API, Application Programming Interface, or Hypermedia in the title, abstract, or full content of the patent. I have broken them down into separate repositories, for easier management by year.
-  footer: These are all forkable on Github, letting me manage the data using Jekyll within a Github repository. I also have filtered APIs (JSON feeds) for each of the years providing me with specialized access to common keywords I'm tracking on.
+  header: I downloaded all the XML files for patents between 2005 and 2016, filtering anything that have API, Application Programming Interface, or Hypermedia in the title, abstract, or full content of the patent. I have broken them down into separate repositories, for easy management by year. I have a complete listing of ALL patents for each year, as well as a set of filtered JSON feeds which I use in my other research and storytelling.
+  footer: These are all forkable on Github, letting me manage the data using Jekyll within a Github repository. Everything is available in the _posts folder for the repository, with the HTML and JSON represented driven by that using Liquid. I will keep curating the patents, and enhance the filters available. Currently they are just by "contains", but as I curate I will continue to add tags what I feel are the most relevant patents.
   tags: Patents
 ...
