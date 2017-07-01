@@ -1,4 +1,4 @@
 ---
 layout: none
 ---
-{{ site.data.patents.2006-openapi | json }}
+{{ site.data.patents.2006-openapi | jsonify }}
