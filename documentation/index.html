@@ -137,7 +137,7 @@ layout: default
   <table width="95%" border="0" style="margin-left: 15px;">
 
   {% assign taglist = '' %}
-
+  openapi_spec_json: {{ openapi_spec_json }}<br />
   {% for path in openapi_spec_json.paths %}
 
     {% assign this_path = path[0] %}
