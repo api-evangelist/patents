@@ -1,0 +1,4 @@
+---
+layout: none
+---
+{% assign show_json = site.data.patents.2006-openapi | json | replace: '=>', ':' %}{{ show_json }}
