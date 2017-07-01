@@ -1,4 +1,4 @@
 ---
 layout: none
 ---
-{% assign show_json = site.data.patents.2005-openapi | json | replace: '=>', ':' %}{{ show_json }}
+{% assign show_json = site.data.patents.2005-openapi | json | replace: '=>', ':' | json | replace: '200', '"200"' %}{{ show_json }}
