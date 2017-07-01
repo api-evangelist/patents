@@ -123,6 +123,7 @@ layout: default
       {% for entry in contents %}
         {% assign thisname = entry[0] %}
         {% assign thisentry = entry[1] %}
+        HERE: {{ thisname }} == {{ thisobject }}<br />
         {% if thisname == thisobject %}
           {% assign openapi_spec_json = thisentry.openapi %}
           {% assign apis_json_url = raw_url %}
