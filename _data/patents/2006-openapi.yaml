@@ -1,4 +1,4 @@
-Swagger: "2.0"
+swagger: "2.0"
 info:
   title: API Evangelist Patents (2006)
   description: These are the patents for this year, filtered by area.
