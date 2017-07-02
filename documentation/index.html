@@ -118,14 +118,13 @@ layout: default
       {% assign this_url = this_url | replace: '-','' %}
       {% assign thisobject = this_url | replace: '/','.' %}
       {% assign thisobject = thisobject | replace: '.apis.','' %}
-      {% assign thisobject = thisobject | replace: '.openapi','' %}
       {% assign thisarray = thisobject | split: '.' %}
       {% assign thisobject = thisobject[0] %}
 
       {% for entry in contents %}
         {% assign thisname = entry[0] %}
         {% assign thisentry = entry[1] %}
-        1) {{ thisname }} == {{ thisobject }}<br />
+        2) {{ thisname }} == {{ thisobject }}<br />
         {% if thisname == thisobject %}
           {% assign openapi_spec_json = thisentry.openapi %}
           {% assign apis_json_url = raw_url %}
