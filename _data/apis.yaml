@@ -63,6 +63,36 @@ apis:
     properties:
       - type: x-openapi
         url: http://patents.apievangelist.com/apis/patents/2007-openapi.json
+  - name: Patents API (2008)
+    description: These are the patents I've aggregated and filtered for 2008.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
+    humanURL: http://patents.2008.apievangelist.com/
+    baseURL: http://patents.2008.apievangelist.com/
+    tags:
+      - Patents
+    properties:
+      - type: x-openapi
+        url: http://patents.apievangelist.com/apis/patents/2008-openapi.json
+  - name: Patents API (2009)
+    description: These are the patents I've aggregated and filtered for 2009.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
+    humanURL: http://patents.2009.apievangelist.com/
+    baseURL: http://patents.2009.apievangelist.com/
+    tags:
+      - Patents
+    properties:
+      - type: x-openapi
+        url: http://patents.apievangelist.com/apis/patents/2009-openapi.json
+  - name: Patents API (2010)
+    description: These are the patents I've aggregated and filtered for 2010.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
+    humanURL: http://patents.2010.apievangelist.com/
+    baseURL: http://patents.2010.apievangelist.com/
+    tags:
+      - Patents
+    properties:
+      - type: x-openapi
+        url: http://patents.apievangelist.com/apis/patents/2010-openapi.json
 x-common:
   - type: x-support
     url: https://github.com/api-evangelist/patents/issues

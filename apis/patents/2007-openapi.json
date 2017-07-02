@@ -1,0 +1,4 @@
+---
+layout: none
+---
+{{ site.data.patents.2007-openapi | jsonify }}
