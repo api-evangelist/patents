@@ -131,7 +131,7 @@ layout: default
         2) {{ thisname }} == {{ thisobject }}<br />
         {% if thisname == thisobject %}
           {% for entry in thisentry %}
-            1) {{ entry }}<br /><br />
+            11) {{ entry[1] }}<br /><br />
           {% endfor %}
           {% assign openapi_spec_json = thisentry.openapi %}
           {% assign apis_json_url = raw_url %}
