@@ -118,6 +118,7 @@ layout: default
       {% assign thisobject = thisobject | replace: '-','.' %}
 
       thisobject: {{ thisobject }}<br />
+      
       {% assign thisarray = thisobject | split: '.' %}
 
       {% assign thisobject = thisarray %}
