@@ -131,12 +131,11 @@ layout: default
 
         {% assign thisobject = thisarray %}
         {% assign count = 1 %}
-        {% for item in thisarray %}
-          {% if count < 3%}
-              {% assign thisobject = thisobject | append: item %}
-          {% endif %}
-          {% assign count = count | plus: 1 %}
-        {% endfor %}
+
+        1) {{ thisarray[1] }}<br />
+        2) {{ thisarray[2] }}<br />
+        3) {{ thisarray[3] }}<br />
+        4) {{ thisarray[4] }}<br />
 
         {% for entry in patents %}
           {% assign thisname = entry[0] %}
