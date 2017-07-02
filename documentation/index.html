@@ -101,6 +101,7 @@ layout: default
 
 {% assign numberofapis = apijson.apis | size %}
 {% assign contents = site.data %}
+{% assign patents = site.data.patents %}
 
 {% for api in apijson.apis %}
 
@@ -128,18 +129,32 @@ layout: default
         {% endif %}
       {% endfor %}
 
-      {% for entry in contents %}
-        {% assign thisname = entry[0] %}
-        {% assign thisentry = entry[1] %}
-        2) {{ thisname }} == {{ thisobject }}<br />
-        {% if thisname == thisobject %}
-          {% for entry in thisentry %}
-            {% assign openapi_spec_json = entry[1] %}
-          {% endfor %}
-          {% assign apis_json_url = raw_url %}
-        {% endif %}
-      {% endfor %}
 
+      {% if thisobject == 'patents' %}
+        {% for entry in patents %}
+          {% assign thisname = entry[0] %}
+          {% assign thisentry = entry[1] %}
+          2) {{ thisname }} == {{ thisobject }}<br />
+          {% if thisname == thisobject %}
+            {% for entry in thisentry %}
+              {% assign openapi_spec_json = entry[1] %}
+            {% endfor %}
+            {% assign apis_json_url = raw_url %}
+          {% endif %}
+        {% endfor %}
+      {% else %}
+        {% for entry in contents %}
+          {% assign thisname = entry[0] %}
+          {% assign thisentry = entry[1] %}
+          3) {{ thisname }} == {{ thisobject }}<br />
+          {% if thisname == thisobject %}
+            {% for entry in thisentry %}
+              {% assign openapi_spec_json = entry[1] %}
+            {% endfor %}
+            {% assign apis_json_url = raw_url %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     {% endif %}
 
   {% endfor %}
