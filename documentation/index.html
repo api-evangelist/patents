@@ -129,14 +129,7 @@ layout: default
 
       {% if thisobject == 'patents' %}
 
-        {% assign thisobject = thisarray %}
-        {% assign count = 1 %}
-
-        1) {{ thisarray[1] }}<br />
-        2) {{ thisarray[2] }}<br />
-        3) {{ thisarray[3] }}<br />
-        4) {{ thisarray[4] }}<br />
-
+        {% assign thisobject = thisarray[1] | append: '.' | append: thisarray[2] %}
         {% for entry in patents %}
           {% assign thisname = entry[0] %}
           {% assign thisentry = entry[1] %}
