@@ -118,10 +118,7 @@ layout: default
       {% assign thisobject = this_url | replace: '/','.' %}
       {% assign thisobject = thisobject | replace: '-','.' %}
 
-      thisobject: {{ thisobject }}<br />
-
       {% assign thisarray = thisobject | split: '.' %}
-
       {% assign thisobject = thisarray %}
       {% for item in thisarray %}
         {% if forloop.first == true %}
@@ -131,6 +128,16 @@ layout: default
 
 
       {% if thisobject == 'patents' %}
+
+        {% assign thisobject = thisarray %}
+        {% assign count = 1 %}
+        {% for item in thisarray %}
+          {% if count < 3%}
+              {% assign thisobject = thisobject | append: item %}
+          {% endif %}
+          {% assign count = count | plus: 1 %}
+        {% endfor %}
+
         {% for entry in patents %}
           {% assign thisname = entry[0] %}
           {% assign thisentry = entry[1] %}
