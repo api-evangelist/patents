@@ -115,6 +115,7 @@ layout: default
       {% assign raw_url = property.url %}
       {% assign this_url = this_url | replace: site.raw_url,'' %}
       {% assign thisobject = this_url | replace: '/','.' %}
+      {% assign thisobject = this_url | replace: '-','.' %}
       {% assign thisarray = thisobject | split: '.' %}
 
       {% assign thisobject = thisarray %}
