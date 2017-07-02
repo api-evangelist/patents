@@ -118,7 +118,7 @@ layout: default
       {% assign thisobject = thisobject | replace: '-','.' %}
 
       thisobject: {{ thisobject }}<br />
-      
+
       {% assign thisarray = thisobject | split: '.' %}
 
       {% assign thisobject = thisarray %}
@@ -131,6 +131,7 @@ layout: default
       {% for entry in contents %}
         {% assign thisname = entry[0] %}
         {% assign thisentry = entry[1] %}
+        2) {{ thisname }} == {{ thisobject }}<br />
         {% if thisname == thisobject %}
           {% for entry in thisentry %}
             {% assign openapi_spec_json = entry[1] %}
