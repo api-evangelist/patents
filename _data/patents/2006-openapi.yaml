@@ -24,7 +24,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /database/:
     get:
       summary: Get database API patents
@@ -37,7 +37,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /definitions/:
     get:
       summary: Get API definition patents
@@ -50,7 +50,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /deployment/:
     get:
       summary: Get API deployment patents
@@ -63,7 +63,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /design/:
     get:
       summary: Get API design patents
@@ -76,7 +76,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /hypermedia/:
     get:
       summary: Get hypermedia API patents
@@ -89,7 +89,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /machine-learning/:
     get:
       summary: Get machine learning API patents
@@ -102,7 +102,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /management/:
     get:
       summary: Get API management patents
@@ -115,7 +115,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /microservice/:
     get:
       summary: Get microservice patents
@@ -128,7 +128,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /monitoring/:
     get:
       summary: Get API monitoring patents
@@ -141,7 +141,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /network/:
     get:
       summary: Get network API patents
@@ -154,7 +154,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /performance/:
     get:
       summary: Get API performance patents
@@ -167,7 +167,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /portal/:
     get:
       summary: Get API portal patents
@@ -180,7 +180,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /proxy/:
     get:
       summary: Get API proxy patents
@@ -193,7 +193,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /search/:
     get:
       summary: Get API search patents
@@ -206,7 +206,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /security/:
     get:
       summary: Get API security patents
@@ -219,7 +219,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /serverless/:
     get:
       summary: Get serverless API patents
@@ -232,7 +232,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /terms-of-service/:
     get:
       summary: Get API terms of service patents
@@ -245,7 +245,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patent
+        - Patents
   /testing/:
     get:
       summary: Get API testing patents
@@ -258,7 +258,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patents
+        - Patentss
   /versioning/:
     get:
       summary: Get API versioning patents
@@ -271,7 +271,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patents
+        - Patentss
   /virtualization/:
     get:
       summary: Get API virtualization patents
@@ -284,7 +284,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patents
+        - Patentss
   /webhooks/:
     get:
       summary: Get webhook patents
@@ -297,7 +297,7 @@ paths:
             items:
               $ref: '#/definitions/patent'
       tags:
-        - Patents
+        - Patentss
 definitions:
   patent:
     properties:

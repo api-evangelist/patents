@@ -39,7 +39,7 @@ apis:
     humanURL: http://patents.2005.apievangelist.com/
     baseURL: http://patents.2005.apievangelist.com/
     tags:
-      - Patents 2005
+      - Patents
     properties:
       - type: x-openapi
         url: http://patents.apievangelist.com/apis/patents/2005-openapi.json
@@ -49,7 +49,7 @@ apis:
     humanURL: http://patents.2006.apievangelist.com/
     baseURL: http://patents.2006.apievangelist.com/
     tags:
-      - Patents 2006
+      - Patents
     properties:
       - type: x-openapi
         url: http://patents.apievangelist.com/apis/patents/2006-openapi.json
@@ -59,10 +59,10 @@ apis:
     humanURL: http://patents.2007.apievangelist.com/
     baseURL: http://patents.2007.apievangelist.com/
     tags:
-      - Patents 2007
+      - Patents
     properties:
       - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2007-openapi.json        
+        url: http://patents.apievangelist.com/apis/patents/2007-openapi.json
 x-common:
   - type: x-support
     url: https://github.com/api-evangelist/patents/issues
