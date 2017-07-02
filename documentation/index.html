@@ -114,10 +114,10 @@ layout: default
       {% assign this_url = property.url %}
       {% assign raw_url = property.url %}
       {% assign this_url = this_url | replace: site.raw_url,'' %}
-      {% assign thisobject = this_url %}
+      {% assign thisobject = this_url | replace: '/','.' %}
       {% assign thisarray = thisobject | split: '.' %}
 
-      11) {{ thisarray }}<br />
+      12) {{ thisarray }}<br />
 
       {% for entry in contents %}
         {% assign thisname = entry[0] %}
