@@ -116,6 +116,8 @@ layout: default
       {% assign this_url = this_url | replace: site.raw_url,'' %}
       {% assign thisobject = this_url | replace: '/','.' %}
       {% assign thisobject = thisobject | replace: '-','.' %}
+
+      thisobject: {{ thisobject }}<br />
       {% assign thisarray = thisobject | split: '.' %}
 
       {% assign thisobject = thisarray %}
@@ -216,7 +218,7 @@ layout: default
 
             {% if tag == grouptag %}
 
-              {% assign slug = api_host | append: api_base  | append: path[0] | slugify %}
+              {% assign slug = api_host | append: api_base | append: path[0] | slugify %}
 
               <tr>
                 <td width="35%" style="padding-left: 20px; font-size: 14px;">{{ summary }}</td>
