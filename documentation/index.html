@@ -118,7 +118,8 @@ layout: default
       {% assign this_url = this_url | replace: '-','' %}
       {% assign thisobject = this_url | replace: '/','.' %}
       {% assign thisarray = thisobject | split: '.' %}
-      {% assign thisobject = thisobject[0] %}
+
+      1) {{ thisarray }}<br />
 
       {% for entry in contents %}
         {% assign thisname = entry[0] %}
