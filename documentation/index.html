@@ -216,7 +216,7 @@ layout: default
 
             {% if tag == grouptag %}
 
-              {% assign slug = path[0] | replace: '/','' %}
+              {% assign slug = api_host | append: api_base  | append: path[0] | slugify %}
 
               <tr>
                 <td width="35%" style="padding-left: 20px; font-size: 14px;">{{ summary }}</td>
