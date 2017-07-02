@@ -129,7 +129,7 @@ layout: default
 
       {% if thisobject == 'patents' %}
 
-        {% assign thisobject = thisarray[1] | append: '.' | append: thisarray[2] %}
+        {% assign thisobject = thisarray[1] | append: '-' | append: thisarray[2] %}
         {% for entry in patents %}
           {% assign thisname = entry[0] %}
           {% assign thisentry = entry[1] %}
