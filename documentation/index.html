@@ -120,7 +120,7 @@ layout: default
       {% assign thisobject = thisobject | replace: '.apis.','' %}
       {% assign thisobject = thisobject | replace: '.openapi','' %}
       {% assign thisarray = thisobject | split: '.' %}
-      {% assign thisarray = thisobject[0] %}
+      {% assign thisobject = thisobject[0] %}
 
       {% for entry in contents %}
         {% assign thisname = entry[0] %}
