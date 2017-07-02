@@ -235,7 +235,10 @@ layout: default
                   {{ verb }}
                 </td>
                 <td width="10%" style="width: 25px;"></td>
-                <td width="10%"><button type="button" class="btn btn-default" onclick="showme('{{ slug }}-row'); return false;">Try</button></tr>
+                <td width="10%">
+                  <!--<button type="button" class="btn btn-default" onclick="showme('{{ slug }}-row'); return false;">Try</button>-->
+                  <button type="button" class="btn btn-default" onclick="window.open('http://{{ api_host }}{{ api_base }}{{ path[0] }}')">View</button>
+                </td>
               </tr>
               <tr id="{{ slug }}-row" style="display: none;">
                 <td colspan="5" style="padding: 15px;">
