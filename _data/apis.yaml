@@ -92,7 +92,67 @@ apis:
       - Patents
     properties:
       - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2010-openapi.json
+        url: http://patents.apievangelist.com/apis/patents/2011-openapi.json
+  - name: Patents API (2011)
+    description: These are the patents I've aggregated and filtered for 2011.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
+    humanURL: http://patents.2011.apievangelist.com/
+    baseURL: http://patents.2011.apievangelist.com/
+    tags:
+      - Patents
+    properties:
+      - type: x-openapi
+        url: http://patents.apievangelist.com/apis/patents/2011-openapi.json
+  - name: Patents API (2012)
+    description: These are the patents I've aggregated and filtered for 2012.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
+    humanURL: http://patents.2012.apievangelist.com/
+    baseURL: http://patents.2012.apievangelist.com/
+    tags:
+      - Patents
+    properties:
+      - type: x-openapi
+        url: http://patents.apievangelist.com/apis/patents/2012-openapi.json
+  - name: Patents API (2013)
+    description: These are the patents I've aggregated and filtered for 2013.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
+    humanURL: http://patents.2013.apievangelist.com/
+    baseURL: http://patents.2013.apievangelist.com/
+    tags:
+      - Patents
+    properties:
+      - type: x-openapi
+        url: http://patents.apievangelist.com/apis/patents/2013-openapi.json
+  - name: Patents API (2014)
+    description: These are the patents I've aggregated and filtered for 2014.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
+    humanURL: http://patents.2014.apievangelist.com/
+    baseURL: http://patents.2014.apievangelist.com/
+    tags:
+      - Patents
+    properties:
+      - type: x-openapi
+        url: http://patents.apievangelist.com/apis/patents/2014-openapi.json
+  - name: Patents API (2015)
+    description: These are the patents I've aggregated and filtered for 2015.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
+    humanURL: http://patents.2015.apievangelist.com/
+    baseURL: http://patents.2015.apievangelist.com/
+    tags:
+      - Patents
+    properties:
+      - type: x-openapi
+        url: http://patents.apievangelist.com/apis/patents/2015-openapi.json
+  - name: Patents API (2016)
+    description: These are the patents I've aggregated and filtered for 2016.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
+    humanURL: http://patents.2016.apievangelist.com/
+    baseURL: http://patents.2016.apievangelist.com/
+    tags:
+      - Patents
+    properties:
+      - type: x-openapi
+        url: http://patents.apievangelist.com/apis/patents/2016-openapi.json
 x-common:
   - type: x-support
     url: https://github.com/api-evangelist/patents/issues
