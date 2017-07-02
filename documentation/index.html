@@ -117,7 +117,12 @@ layout: default
       {% assign thisobject = this_url | replace: '/','.' %}
       {% assign thisarray = thisobject | split: '.' %}
 
-      12) {{ thisarray }}<br />
+      {% assign thisobject = thisarray %}
+      {% for item in thisarray %}
+        {% if forloop.first == true %}
+            {% assign thisobject = item %}
+        {% endif %}
+      {% endfor %}
 
       {% for entry in contents %}
         {% assign thisname = entry[0] %}
