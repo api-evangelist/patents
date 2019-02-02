@@ -1,165 +1,76 @@
-name: API Evangelist - Patents
-description: This is my research into API patents, as part of API Evangelist industry monitoring.
+name: API Evangelist - Definitions
+description: This is my research into API definitions, as part of API Evangelist industry monitoring.
 image: http://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
 tags:
   - API
-  - Patents
-created: "2017-06-30"
-modified: "2017-06-30"
-url: https://patents.apievangelist.com/apis.json
+  - Definitions
+  - Specifications
+created: "2017-06-24"
+modified: "2017-06-24"
+url: https://definitions.apievangelist.com/apis.json
 specificationVersion: "0.14"
 apis:
   - name: Blog API
     description: This is my simple API for accessing blog posts as part of this research.
     image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png
-    humanURL: http://patents.apievangelist.com/
-    baseURL: http://patents.apievangelist.com/
+    humanURL: http://definitions.apievangelist.com/
+    baseURL: http://definitions.apievangelist.com/
     tags:
       - Blog
     properties:
       - type: x-openapi
-        url: http://patents.apievangelist.com/apis/blogs/openapi.json
+        url: http://definitions.apievangelist.com/apis/blogs/openapi.json
       - type: x-atom
-        url: http://patents.apievangelist.com/feeds/blogs/atom.xml
+        url: http://definitions.apievangelist.com/feeds/blogs/atom.xml
   - name: News API
     description: This is my simple API for accessing news stories I've curated as part of this research.
     image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-icon.png
-    humanURL: http://patents.apievangelist.com/
-    baseURL: http://patents.apievangelist.com/
+    humanURL: http://definitions.apievangelist.com/
+    baseURL: http://definitions.apievangelist.com/
     tags:
       - News
     properties:
       - type: x-openapi
-        url: http://patents.apievangelist.com/apis/curated/openapi.json
+        url: http://definitions.apievangelist.com/apis/curated/openapi.json
       - type: x-atom
-        url: http://patents.apievangelist.com/feeds/news/atom.xml
-  - name: Patents API (2005)
-    description: These are the patents I've aggregated and filtered for 2005.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2005.apievangelist.com/
-    baseURL: http://patents.2005.apievangelist.com/
+        url: http://definitions.apievangelist.com/feeds/news/atom.xml
+  - name: Organizations API
+    description: This is my simple API for accessing the organizations that are part of this research.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-organization.jpg
+    humanURL: http://definitions.apievangelist.com/
+    baseURL: http://definitions.apievangelist.com/
     tags:
-      - Patents
+      - Organizations
     properties:
       - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2005-openapi.json
-  - name: Patents API (2006)
-    description: These are the patents I've aggregated and filtered for 2006.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2006.apievangelist.com/
-    baseURL: http://patents.2006.apievangelist.com/
+        url: http://definitions.apievangelist.com/apis/organizations/openapi.json
+  - name: Tools API
+    description: This is my simple API for accessing the tools that are part of this research.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tools.png
+    humanURL: http://definitions.apievangelist.com/
+    baseURL: http://definitions.apievangelist.com/
     tags:
-      - Patents
+      - Tools
     properties:
       - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2006-openapi.json
-  - name: Patents API (2007)
-    description: These are the patents I've aggregated and filtered for 2007.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2007.apievangelist.com/
-    baseURL: http://patents.2007.apievangelist.com/
+        url: http://definitions.apievangelist.com/apis/tools/openapi.json
+  - name: Building Blocks API
+    description: An API for the building blocks aggregated as part of this research.
+    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-building-blocks.png
+    humanURL: http://definitions.apievangelist.com/
+    baseURL: http://definitions.apievangelist.com/
     tags:
-      - Patents
+      - Building Blocks
     properties:
       - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2007-openapi.json
-  - name: Patents API (2008)
-    description: These are the patents I've aggregated and filtered for 2008.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2008.apievangelist.com/
-    baseURL: http://patents.2008.apievangelist.com/
-    tags:
-      - Patents
-    properties:
-      - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2008-openapi.json
-  - name: Patents API (2009)
-    description: These are the patents I've aggregated and filtered for 2009.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2009.apievangelist.com/
-    baseURL: http://patents.2009.apievangelist.com/
-    tags:
-      - Patents
-    properties:
-      - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2009-openapi.json
-  - name: Patents API (2010)
-    description: These are the patents I've aggregated and filtered for 2010.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2010.apievangelist.com/
-    baseURL: http://patents.2010.apievangelist.com/
-    tags:
-      - Patents
-    properties:
-      - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2011-openapi.json
-  - name: Patents API (2011)
-    description: These are the patents I've aggregated and filtered for 2011.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2011.apievangelist.com/
-    baseURL: http://patents.2011.apievangelist.com/
-    tags:
-      - Patents
-    properties:
-      - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2011-openapi.json
-  - name: Patents API (2012)
-    description: These are the patents I've aggregated and filtered for 2012.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2012.apievangelist.com/
-    baseURL: http://patents.2012.apievangelist.com/
-    tags:
-      - Patents
-    properties:
-      - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2012-openapi.json
-  - name: Patents API (2013)
-    description: These are the patents I've aggregated and filtered for 2013.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2013.apievangelist.com/
-    baseURL: http://patents.2013.apievangelist.com/
-    tags:
-      - Patents
-    properties:
-      - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2013-openapi.json
-  - name: Patents API (2014)
-    description: These are the patents I've aggregated and filtered for 2014.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2014.apievangelist.com/
-    baseURL: http://patents.2014.apievangelist.com/
-    tags:
-      - Patents
-    properties:
-      - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2014-openapi.json
-  - name: Patents API (2015)
-    description: These are the patents I've aggregated and filtered for 2015.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2015.apievangelist.com/
-    baseURL: http://patents.2015.apievangelist.com/
-    tags:
-      - Patents
-    properties:
-      - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2015-openapi.json
-  - name: Patents API (2016)
-    description: These are the patents I've aggregated and filtered for 2016.
-    image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-patent-algorithms.png
-    humanURL: http://patents.2016.apievangelist.com/
-    baseURL: http://patents.2016.apievangelist.com/
-    tags:
-      - Patents
-    properties:
-      - type: x-openapi
-        url: http://patents.apievangelist.com/apis/patents/2016-openapi.json
+        url: http://definitions.apievangelist.com/apis/building_blocks/openapi.json
 x-common:
   - type: x-support
-    url: https://github.com/api-evangelist/patents/issues
+    url: https://github.com/api-evangelist/definitions/issues
   - type: x-documentation
-    url: http://patents.apievangelist.com/documentation/
+    url: http://definitions.apievangelist.com/documentation/
   - type: x-github-repo
-    url: https://github.com/api-evangelist/patents
+    url: https://github.com/api-evangelist/definitions
 include: []
 maintainers:
   - FN: Kin Lane
